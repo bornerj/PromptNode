@@ -1,0 +1,239 @@
+Título: Criar Página HTML5
+Descrição: Crie uma página moderna usando HTML5 e Bootstrap para mostrar prompts. só para teste
+Tags: html, bootstrap, web
+
+Título: Gerar Carrossel com Imagens
+Descrição: Crie um carrossel responsivo com Bootstrap que aceite imagens de um array.
+Tags: bootstrap, carrossel, javascript
+
+Título: Reescrita de alta conversão
+Descrição: Reescreva este conteúdo para deixá-lo 10x mais persuasivo, claro e emocionalmente impactante estruturado para conduzir o leitor naturalmente à ação, sem parecer forçado."
+Tags: Texto, Persuasão ,Natural
+
+Título: Expansão de ldeia
+Descrição: "Expanda essa ideia simples em um conteúdo completo com exemplos, metáforas e ganchos emocionais, tornando-a mais rica, profunda e valiosa, sem adicionar enrolação desnecessária."
+Tags: Melhoria ,Texto ,Ideia
+
+Título: Imã de Primeira Frase
+Descrição: "Crie 5 frases iniciais para esse conteúdo que capturem imediatamente a atenção, gerem envolvimento emocional e façam Com que as pessoas queiram continuar lendo sem parecer sensacionalista."
+Tags: Atrair ,Atenção
+
+Título: Amplificador de Personalidade
+Descrição: "Reescreva isso de forma que realce meu humor, sarcasmo ou ousadia fazendo Com que se destaque e pareça claramente com o me estilo pessoal!"
+Tags: Personalidade, Destaque
+
+Título: Feiticeiro da Simplificação
+Descrição: "Simplifique essa mensagem para o nível de leitura de um aluno da 8ª série, mantendo sofisticação e credibilidade para que seja cristalina para um público amplo sem perder impacto."
+Tags: Simplificar
+
+Título: Potencializador de Comparações
+Descrição: "Refo rce esse texto adicionando comparações, analogias ou metáforas poderosas que tornem ideias abstratas mais compreensíveis para o leitor."
+Tags: Texto ,Comparações
+
+Título: Atualização de Resposta Emocional
+Descrição: "Aprofunde o impacto emocional dessa história para que os leitores se sintam mais conectados, inspirados ou tocados gerando maior engajamento e mais chances de compartilhamento ou salvamento."
+Tags: Emoção ,Engajamento ,Texto
+
+Título: Mais Humanizado
+Descrição: Agora, inclua na escrita elementos característicos da língua portuguesa (como contrações, expressões idiomáticas, frases de transição, interjeições, modificadores e coloquialismos), bem como recursos literários (como simbolismos, prenúncio, metáfora, personificação, hipérbole e aliteração), sem que sejam usados de forma literal.
+Tags: Humanizado ,Texto
+
+Título: Analista De Concorrência
+Descrição: Aja como um estrategista de inteligência competitiva com mais de 15 anos de experiência em pesquisa de mercado, estratégia digital e posicionamento de marca. Sua tarefa é realizar uma análise competitiva aprofundada para um negócio no setor [insira seu nicho]Objetivo: Descobrir os 5 principais concorrentes, analisar seus pontos fortes, fracos, ofertas, estratégias de conteúdo, engajamento com o público, precificação e diferenciais. Depois, fornecer recomendações práticas para superá-los em áreas como SEO, redes sociais, ofertas e mensagem."
+Tags: Analista, Concorrencia
+
+Título: crie uma máquina de lucro
+Descrição: "Aja como um arquiteto de sistemas de negócios que já escalou várias marcas de 7 dígitos no setor [insira seu nicho]. Sua tarefa é ajudar um dono de negócio a criar uma máquina de lucro automatizada que gere receita recorrente com o mínimo de esforço manual.
+Objetivo: Montar um sistema de monetização completo - incluindo criação de oferta, geração de leads, funil de vendas, estratégia de upsell, mecanismo de retenção e ferramentas de automação."
+Tags: Empreeendedorismo ,Lucro ,Negócios
+
+Título: Aprenda Qualquer Habilidade Em 1 Dia
+Descrição: "Aja como um treinador de aprendizado acelerado de alto nível com especialização em memória, cognição e performance. Crie um plano personalizado de 1 dia para dominar [insira a habilidade] para alguém do setor [insira o nicho].
+Público-alvo:[insira seu público-alvo]
+Estilo: prático, motivador, focado."
+Tags: Aprendizado, Rapidez
+
+Título: Desbloqueie O Algoritmo
+Descrição: "Aja como um especialista em algoritmos de redes sociais e estrategista de conteúdo viral com experiência em impulsionar crescimento explosivo. Sua missão é ajudar uma marca do setor [insira o nicho] a criar um motor de conteúdo que ative constantemente o algoritmo no Instagram, tiktok, X, etc.
+Público-alvo: [insira seu público-alvo]
+Estilo: ousado, antenado, criativo
+Tags: Algoritmo, RedesSociais
+
+Título: Destrave Prompts Escondidos
+Descrição: "Aja como um engenheiro de prompts com mais de 15 anos de experiência em IA, processamento de linguagem e fluxos criativos. Sua tarefa é ajudar um usuário do setor [insira o nicho] a destravar prompts poderosos e pouco conhecidos no ChatGPT.
+Objetivo: Revelar e gerar 15 prompts avançados para [criação de conteúdo, marketing, geração de código, etc.].
+Público-alvo: [insira seu público- alvo]
+Estilo: inteligente, profundo, voltado para alta performance.
+Tags: Prompts, Avançado, Engenharia
+
+Título: Negociador Imparável
+Descrição: "Aja como um treinador de negociação com experiência em contratos corporativos, acordos freelance e persuasão em alto nível. Crie um modelo de negociação para alguém do setor [insira o nicho].
+Público-alvo: [insira seu público-alvo]
+Estilo: assertivo, confiante, estratégico.
+Tags: Negociação
+
+Título: Especialista Em Marketing Direto
+Descrição: "Aja como um especialista em marketing direto que já criou campanhas milionárias no setor [insira o nicho]. Sua tarefa é criar um plano completo de marketing direto para [insira seu público] , usando e-mail, impressos e canais digitais.
+Objetivo: Criar um sistema de resposta direta claro, agressivo e com alta conversão.
+Estilo: persuasivo, direto ao ponto, sem enrolação.
+Tags: Marketing
+
+Título: Crie Um Produto Digital Em 24 Horas
+Descrição: "Atue como um coach de criação digital. Sugira uma ideia única de produto digital que eu possa criar e vender em até 24 horas usando o ChatGPT.Inclua as ferramentas necessárias e etapas de criação."
+Tags: Produto, Digital
+
+Título: Comece Uma Página No Instagram Com Ajuda Da Ia
+Descrição: "Atue como estrategista de conteúdo para Instagram. Sugira um nicho lucrativo para uma nova página, dê 10 ideias de conteúdo com legendas e hashtags, e compartilhe táticas de crescimento usando conteúdo gerado pelo ChatGPT."
+Tags: Instagram, Criação
+
+Título: Crie Uma Oferta De Mentoria 1x1
+Descrição: "Atue como um coach de negócios. Me ajude a criar uma oferta de mentoria no meu nicho. Escreva minha oferta, descreva 3 tópicos para sessões e crie um script de mensagem para fechar clientes."
+Tags: Mentoria, Coach ,Texto
+
+Título: Crie Um Canal No Youtube Sem Aparecer
+Descrição: "Atue como um estrategista de YouTube. 
+
+Me dê 3 ideias de canais no YouTube sem aparecer, usando conteúdo gerado por IA incluindo nichos, formatos de vídeo, títulos, roteiros e ferramentas de voz para automatizar o processo."
+Tags: Youtube,Canal
+
+Título: Lance Um Funil Com Isca Digital
+Descrição: "Atue como um estrategista de marketing digital. Me ajude a criar uma isca digital com o ChatGPT, construir uma landing page simples e escrever uma sequência de 3 e- mails de boas-vindas para crescer minha lista de e-mails.
+Tags: Funil, Isca, Marketing
+
+Título: Antes de responder, me faça perguntas para entender melhor o contexto.
+Descrição: Pouca gente sabe, mas o ChatGPT também pode perguntar. Ao incentivá-lo a investigar antes de responder, você convida o modelo a agir como um parceiro mais criterioso - algo especialmente útil em decisões complexas ou tarefas abertas, como criar um planejamento estratégico ou sugerir caminhos de carreira."Quero que você me ajude a organizar um curso online. Antes de dar sugestões, me faça perguntas para entender o perfil do público e o objetivo do curso."
+Tags: Texto ,Perguntas
+
+Título: Comando mágico
+Descrição: Reescreva como se fosse um especialista brilhante tentando impressionar uma plateia exigente."
+Sim, funciona. E muda tudo.
+O que esse comando faz?
+Ele força o modelo a elevar o nível. Em vez de frases genéricas, o texto ganha argumentos mais refinados, vocabulário mais expressivo, analogias interessantes e um tom mais envolvente.
+Tags: Texto ,Engenharia, Melhoria
+
+Título: Especialista
+Descrição: “Quero que você atue como especialista em recrutamento e me ajude a escrever uma carta de apresentação para uma vaga de gerente de projetos."
+Ao atribuir um papel ao ChatGPT - como "consultor de marketing", "especialista em produtividade" ou "mentor de carreira" - você orienta o modelo a adotar um tom, foco e repertório específicos. Isso ajuda a obter respostas mais aprofundadas e condizentes com o seu objetivo.
+Use este exemplo como base...
+IA aprende com padrões. Quando você oferece um modelo - seja um texto anterior, uma descrição de tom ou até um post bem-escrito - o ChatGPT consegue replicar o estilo com mais precisão. Isso vale para criar desde e-mails institucionais até estratégias de storytelling.
+"Use este exemplo como base para escrever um post semelhante, mas com foco no setor de saúde."
+É como mostrar um briefing completo de forma prática, poupando tempo e aumentando as chances de acerto.
+Tags: Especialista, Texto, Post
+
+Título: Instruções do Comportamento (Prompt do Sistema)
+Descrição: Você é Engim , um engenheiro de prompts inteligente e criativo. Sua função é transformar qualquer ideia, desafio ou necessidade do usuário em um prompt claro, eficiente e personalizado para ser usado em ferramentas de IA como ChatGPT, Claude, Gemini, MidJourney ou similares.
+Sempre siga estes passos:
+1. "Compreensão - Entenda o que o usuário quer, o público-alvo e o resultado esperado. Se necessário, faça até 3 perguntas rápidas para refinar."
+2. "Criação - Monte um prompt claro, com contexto, tom e instruções precisas. Ele deve estar pronto para uso direto em qualquer IA."
+3. "Entrega - Destaque o prompt em negrito ou bloco de código. Em seguida, explique como deve ser usado."
+4. "Aprimoramento - Se fizer sentido, ofereça sugestões de variações ou melhorias."
+Você deve agir como um misto de estrategista, redator e programador de linguagem natural. Seja o criativo e focado em gerar valor real para o usuário.
+Tags: Prompt,	Engenharia
+
+Título: Kickresume / @Kickresume
+Descrição: Monte currículos e cartas de apresentação de alto impacto com apoio de IA.Em poucos cliques, destaque-se dos concorrentes e abra portas para o emprego dos seus sonhos - agora também em português!
+kickresume.com/pt<
+PhotoFuse
+verificar se é pago
+Tags: Kickresume
+
+Título: Transforme suas fotos em retratos profissionais com IA - sem estúdio nem fotógrafo.
+Descrição: Envie suas imagens, crie seu avatar e personalize o fundo, as roupas e as expressões.
+Perfeito para LinkedIn, currículos ou avatares realistas no seu estilo.
+Tags: Fotos
+
+Título: Breadcrumb
+Descrição: Tome decisões com base em dados - sem precisar ser especialista.
+Uma plataforma de agentes com IA que analisa, organiza, cruza e apresenta suas informações de forma clara e imediata.
+Tags: Breadcrumb
+
+Título: ReadPo
+Descrição: Aumente sua velocidade de leitura e escrita com o suporte da IA.
+Ganhe tempo reunindo, organizando e produzindo conteúdo de forma eficiente. Ideal para estudantes, pesquisadores e profissionais que lidam com grandes quantidades de texto
+Tags: ReadPro
+
+Título: Como Virar O Jogo Hoje
+Descrição: Pegue 5 vagas do cargo que você quer
+Copie as palavras exatas usadas em "atividades" e "requisitos"
+Espalhe essas palavras em título, resumo e experiências
+Remova qualquer termo que você inventou pra "soar diferente"
+Escreva como se estivesse preenchendo um formulário técnico
+Nao é chamado Simplesmente porque:
+Usou o nome errado do cargo
+Não colocou as ferramentas certas
+Encheu de frase bonita, mas vazia
+Escreveu como se falasse com pessoas
+quando, na verdade, quem te avalia é uma máquina
+Tags: Curriculo,	Vagas, LinkedIn
+
+Título: Curriculo Profissional
+Descrição: Me faça perguntas relevantes para preparar um curriculo profissional que impressione. faça uma pergunta de cada vez.
+Comando 1: "Quais são as palavras-chave mais utilizadas no mercado de trabalho para o cargo de [CARGO] com foco em [ÁREA] ou no cargo [NOME DO CARGO]
+Resposta: Ele vai te dizer as palavras-chave mais utilizadas na suae área de atuação.
+É importante que você distribua elas na sua experiência e no seu resumo. Claro, apenas as que você tiver experiência e/ou conhecimento.
+Comando 2: "Quais as nomenclaturas de cargos mais utilizadas no mercado para atuar na área de [NOME DA ÁREA] ou no cargo de [NOME DO CARGO]" OU um profissional da área acadêmica que estudou sobre [NOME DA ÁREA] no mercado de trabalho?"
+a elaborar seu currículo de Resposta: Ele vai te ajudar com as nomenclaturas corretas para você utilizar no campo do Objetivo.
+Comando 3: [COLOCAR O TEXTO COM AS INFORMAÇÕES SOBRE A SUA EXPERIÊNCIA].
+"Com base nas informações acima, crie um resumo profissional para um currículo, de no máximo 6 linhas. ajudar a elaborar Profissional com mais de [tempo de experiência] na área [área de atuação]. Atuação [principais experiências] Sólidos conhecimentos na [conhecimentos que são sólidos]. a Vivência em [colocar o que tem vivência]. [Colocar seus diferenciais]." Resposta: Ele vai te ajudar a escrever seu resumo profissional.
+Tags: Curriculo, Linkedin, Vagas
+
+Título: Curriculo com IA
+Descrição: Passo a Passo adaptar seu curriculo com IA
+1 - Abra o chat GPT e inicie um novo chat 2 - Envie a vaga para análise inserindo a descrição da vaga que você quer conquistar.
+Descrição: ""Analise detalhadamente a descrição da vaga abaixo e identifique as palavras-chave mais relevantes relacionadas a habilidades, qualificações, tecnologias, responsabilidades e requisitos exigidos. Liste-as de forma organizada, separadas por categoria, priorizando aquelas que mais se repetem ou que parecem ser essenciais para o cargo." [INSIRA A DESCRIÇÃO DA VAGA]
+3 - Envie seu currículo atual e peça sugestões de melhoria com base na vaga analisada.
+Descrição:"Com base nas palavras-chave identificadas na descrição da vaga anterior, analise o currículo abaixo e sugira melhorias específicas para alinhá-lo melhor às exigências da vaga. Aponte ajustes de conteúdo, estrutura e linguagem que aumentem as chances de aprovação, destacando lacunas, pontos fortes e oportunidades de reforçar as competências mais valorizadas pelo mercado. : [COLE O CURRÍCULO ATUAL]."
+Use essa técnica com várias descrições de vagas. Quanto mais você praticar, mais natural será alinhar suas habilidades com o que o mercado procura.
+Tags: Curriculo, Linkedin ,Vagas
+
+Título: Comunicação Mentes Rapidas
+Descrição: Crie um guia de comunicação prática para pessoas superdotadas que têm dificuldade em se fazer entender por colegas, amigos ou familiares. 
+Divida em 5 situações comuns (ex: reuniões, relacionamentos, família, redes sociais, ensino) e ofereça estratégias específicas para traduzir ideias complexas sem parecer arrogante ou confuso. Tom: leve, inteligente, acessível.
+Tags: Comunicação Superdotados
+
+Título: Sites de emprego remoto 2025
+Descrição: autoria: saadat najafova.
+ • flexjobs — flexjobs.com — descubra 50+ categorias de empregos remotos com 100.000+ listagens.
+ • we work remotely — weworkremotely.com — encontre 130.000+ empregos remotos em tecnologia, design e mais.
+ • jobspresso — jobspresso.co — empregos freelance e tempo integral em 5+ indústrias.
+ • remoteco — remote.co — recursos de trabalho remoto e listagens de empregos em todas as indústrias.
+ • justremote — justremote.co — acesse empregos remotos ocultos com powersearch por $6/mês.
+ • virtual vocations — virtualvocations.com — encontre milhares de empregos de teletrabalho e recursos exclusivos.
+ • skip the drive — skipthedrive.com — recursos e empregos remotos sem o trânsito.
+ • working nomads — workingnomads.co — e-mails curados de empregos remotos diários ou semanais.
+ • powertofly — powertofly.com — quadro de empregos focado em tecnologia conectando profissionais diversos globalmente.
+ • remote ok — remoteok.com — quadro de empregos remotos com listagens em tecnologia, design e mais.
+ • authentic jobs — authenticjobs.com — empregos remotos de tecnologia e design de empresas confiáveis.
+ • wellfound — wellfound.com — explore centenas de vagas de startups remotas mundialmente.
+ • upwork — upwork.com — milhões de trabalhos freelance para assistentes virtuais, escritores e mais.
+Tags: Remoto,Linkedin, Sites
+
+Título: Emprego Remoto
+Descrição: O mapa de sites essenciais:
+ • descoberta ampla: flexjobs, we work remotely, remote ok, remoteco.
+ • nichos e tech: jobspresso, powertofly, authentic jobs.
+ • curadoria e newsletters: working nomads, virtual vocations.
+ • busca inteligente: justremote com powersearch e skip the drive.
+ • startups e economia criativa: wellfound para startups e upwork para freelas.
+“aja como meu estrategista de carreira remoto. com base no meu perfil [área, senioridade, idiomas, fusos], selecione 6 sites da lista acima, crie filtros de busca, configure palavras-chave e proponha um calendário de candidaturas por 4 semanas, incluindo metas semanais, checklists e um quadro kanban de status.”
+Tags: Remoto,Linkedin, Sites, Emprego
+
+Título: Aprender um Tema
+Descrição: Quero Aprender sobre "Tema". Use o principio de pareto para identificar os 20% do tópico que geram 89% do resultados. Crie um plano de aprendizegem focado para mim.
+Tags: Estudo, Aprendizado, Pareto ,Tema
+
+Título: Cronograma de aprendizado simples
+Descrição: Item 1
+Item 2
+Crie um cronograma de estudos para todos os itnes acima. Posso estudar 2 horas or dia, 3 vezes por semana. Inclua o tempo para revisao e testes.
+Sugira tambem recursos de aprendizagem Como Livros, Videos, Podcasts E Exercicios Interativos Que Atendam Diferentes Estilos De Aprendizagem.
+Tags: Aprendizado, Cronograma, Estudo
+
+Título: Explicação Simples - Feyman
+Descrição: Simplifique e explique "Conceito" em termos simples ,usando a técnica de feyman
+Tags: Aprendizado, Feyman
+
+Título: Aprender novas Habilidades
+Descrição: Quero aprender/melhorar no assunto "habilidade" . crie um plano de aprendizagem simples de 30 dias ,que ajude a um principiante como eu a aprender e melhorar essa habilidade. 
+Tags: Aprendizado, Habilidade
+

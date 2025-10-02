@@ -1,0 +1,109 @@
+/* ===== Base visual ===== */
+body {
+  background-color: #f0f4f8;
+  font-family: 'Segoe UI', sans-serif;
+}
+.navbar {
+  background-color: #002f87;
+}
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: white;
+}
+.form-control::placeholder {
+  color: #d0dbe5;
+}
+.form-select {
+  color: #212529;
+  font-size: 0.9rem;
+}
+.form-control {
+  font-size: 0.9rem;
+}
+
+/* ===== Card e tipografia ===== */
+.prompt-card {
+  background-color: #ffffff;
+  border-left: 5px solid #ffa500;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  /* Removido height fixa para evitar conflito com h-100 vindo do HTML/JS */
+}
+.card-title {
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+.card-text {
+  font-size: 0.875rem;
+  line-height: 1.4;
+}
+
+/* ===== Tags ===== */
+.tag-badge {
+  margin-right: 0.3rem;
+  cursor: pointer;
+  font-size: 0.75rem;
+  padding: 0.3em 0.5em;
+  border-radius: 0.3rem;
+}
+.tag-badge:hover {
+  opacity: 0.85;
+}
+
+/* ===== Cards com alturas consistentes e descrição rolável ===== */
+
+/* A coluna vira flex para o card conseguir esticar */
+#prompt-list .col-md-4 {
+  display: flex;
+}
+
+/* O card ocupa a altura toda da coluna e organiza conteúdo em coluna */
+#prompt-list .col-md-4 > .card {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+/* O corpo do card usa flex em coluna, permitindo a descrição expandir */
+#prompt-list .card .card-body {
+  display: flex;
+  flex-direction: column;
+  min-height: 0; /* necessário para overflow interno funcionar */
+}
+
+/* Barra de título e ações mantém altura natural */
+#prompt-list .card .card-body .d-flex {
+  flex: 0 0 auto;
+}
+
+/* A descrição ocupa o espaço livre e rola quando necessário */
+#prompt-list .card .card-text {
+  flex: 1 1 auto;
+  margin-bottom: 0.75rem;
+  max-height: 12rem;      /* ajuste fino conforme estética desejada */
+  overflow: hidden;
+  position: relative;
+  transition: max-height 0.2s ease;
+}
+
+/* Efeito sutil no rodapé do texto para indicar continuidade */
+#prompt-list .card .card-text::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 2rem;
+  pointer-events: none;
+  background: linear-gradient(to bottom, rgba(255,255,255,0), #ffffff);
+}
+
+/* Ao passar o mouse, a descrição pode rolar */
+#prompt-list .card:hover .card-text {
+  overflow: auto;
+}
+
+/* Container de tags no rodapé do card */
+#prompt-list .card .tag-container {
+  flex: 0 0 auto;
+}

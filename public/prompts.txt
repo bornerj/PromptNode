@@ -1,0 +1,1845 @@
+Título: Criar Página HTML5
+Descrição: Crie uma página moderna usando HTML5 e Bootstrap para mostrar prompts. só para teste
+Tags: desenvolvimento web
+
+Título: Gerar Carrossel com Imagens
+Descrição: Crie um carrossel responsivo com Bootstrap que aceite imagens de um array.
+Tags: desenvolvimento web
+
+Título: Reescrita de alta conversão
+Descrição: Reescreva este conteúdo para deixá-lo 10x mais persuasivo, claro e emocionalmente impactante estruturado para conduzir o leitor naturalmente à ação, sem parecer forçado."
+Tags: copywriting
+
+Título: Expansão de ldeia
+Descrição: "Expanda essa ideia simples em um conteúdo completo com exemplos, metáforas e ganchos emocionais, tornando-a mais rica, profunda e valiosa, sem adicionar enrolação desnecessária."
+Tags: copywriting
+
+Título: Imã de Primeira Frase
+Descrição: "Crie 5 frases iniciais para esse conteúdo que capturem imediatamente a atenção, gerem envolvimento emocional e façam Com que as pessoas queiram continuar lendo sem parecer sensacionalista."
+Tags: copywriting
+
+Título: Amplificador de Personalidade
+Descrição: "Reescreva isso de forma que realce meu humor, sarcasmo ou ousadia fazendo Com que se destaque e pareça claramente com o me estilo pessoal!"
+Tags: copywriting
+
+Título: Feiticeiro da Simplificação
+Descrição: "Simplifique essa mensagem para o nível de leitura de um aluno da 8ª série, mantendo sofisticação e credibilidade para que seja cristalina para um público amplo sem perder impacto."
+Tags: copywriting
+
+Título: Potencializador de Comparações
+Descrição: "Refo rce esse texto adicionando comparações, analogias ou metáforas poderosas que tornem ideias abstratas mais compreensíveis para o leitor."
+Tags: copywriting
+
+Título: Atualização de Resposta Emocional
+Descrição: "Aprofunde o impacto emocional dessa história para que os leitores se sintam mais conectados, inspirados ou tocados gerando maior engajamento e mais chances de compartilhamento ou salvamento."
+Tags: copywriting
+
+Título: Mais Humanizado
+Descrição: Agora, inclua na escrita elementos característicos da língua portuguesa (como contrações, expressões idiomáticas, frases de transição, interjeições, modificadores e coloquialismos), bem como recursos literários (como simbolismos, prenúncio, metáfora, personificação, hipérbole e aliteração), sem que sejam usados de forma literal.
+Tags: copywriting
+
+Título: Analista De Concorrência
+Descrição: Aja como um estrategista de inteligência competitiva com mais de 15 anos de experiência em pesquisa de mercado, estratégia digital e posicionamento de marca. Sua tarefa é realizar uma análise competitiva aprofundada para um negócio no setor [insira seu nicho]Objetivo: Descobrir os 5 principais concorrentes, analisar seus pontos fortes, fracos, ofertas, estratégias de conteúdo, engajamento com o público, precificação e diferenciais. Depois, fornecer recomendações práticas para superá-los em áreas como SEO, redes sociais, ofertas e mensagem."
+Tags: marketing, estratégia
+
+Título: crie uma máquina de lucro
+Descrição: "Aja como um arquiteto de sistemas de negócios que já escalou várias marcas de 7 dígitos no setor [insira seu nicho]. Sua tarefa é ajudar um dono de negócio a criar uma máquina de lucro automatizada que gere receita recorrente com o mínimo de esforço manual.
+Objetivo: Montar um sistema de monetização completo - incluindo criação de oferta, geração de leads, funil de vendas, estratégia de upsell, mecanismo de retenção e ferramentas de automação."
+Tags: negócios, estratégia
+
+Título: Aprenda Qualquer Habilidade Em 1 Dia
+Descrição: "Aja como um treinador de aprendizado acelerado de alto nível com especialização em memória, cognição e performance. Crie um plano personalizado de 1 dia para dominar [insira a habilidade] para alguém do setor [insira o nicho].
+Público-alvo:[insira seu público-alvo]
+Estilo: prático, motivador, focado."
+Tags: aprendizado
+
+Título: Desbloqueie O Algoritmo
+Descrição: "Aja como um especialista em algoritmos de redes sociais e estrategista de conteúdo viral com experiência em impulsionar crescimento explosivo. Sua missão é ajudar uma marca do setor [insira o nicho] a criar um motor de conteúdo que ative constantemente o algoritmo no Instagram, tiktok, X, etc.
+Público-alvo: [insira seu público-alvo]
+Estilo: ousado, antenado, criativo
+Tags: redes sociais, marketing
+
+Título: Destrave Prompts Escondidos
+Descrição: "Aja como um engenheiro de prompts com mais de 15 anos de experiência em IA, processamento de linguagem e fluxos criativos. Sua tarefa é ajudar um usuário do setor [insira o nicho] a destravar prompts poderosos e pouco conhecidos no ChatGPT.
+Objetivo: Revelar e gerar 15 prompts avançados para [criação de conteúdo, marketing, geração de código, etc.].
+Público-alvo: [insira seu público- alvo]
+Estilo: inteligente, profundo, voltado para alta performance.
+Tags: inteligência artificial
+
+Título: Negociador Imparável
+Descrição: "Aja como um treinador de negociação com experiência em contratos corporativos, acordos freelance e persuasão em alto nível. Crie um modelo de negociação para alguém do setor [insira o nicho].
+Público-alvo: [insira seu público-alvo]
+Estilo: assertivo, confiante, estratégico.
+Tags: negócios
+
+Título: Especialista Em Marketing Direto
+Descrição: "Aja como um especialista em marketing direto que já criou campanhas milionárias no setor [insira o nicho]. Sua tarefa é criar um plano completo de marketing direto para [insira seu público] , usando e-mail, impressos e canais digitais.
+Objetivo: Criar um sistema de resposta direta claro, agressivo e com alta conversão.
+Estilo: persuasivo, direto ao ponto, sem enrolação.
+Tags: marketing
+
+Título: Crie Um Produto Digital Em 24 Horas
+Descrição: "Atue como um coach de criação digital. Sugira uma ideia única de produto digital que eu possa criar e vender em até 24 horas usando o ChatGPT.Inclua as ferramentas necessárias e etapas de criação."
+Tags: negócios, produto digital
+
+Título: Comece Uma Página No Instagram Com Ajuda Da Ia
+Descrição: "Atue como estrategista de conteúdo para Instagram. Sugira um nicho lucrativo para uma nova página, dê 10 ideias de conteúdo com legendas e hashtags, e compartilhe táticas de crescimento usando conteúdo gerado pelo ChatGPT."
+Tags: redes sociais
+
+Título: Crie Uma Oferta De Mentoria 1x1
+Descrição: "Atue como um coach de negócios. Me ajude a criar uma oferta de mentoria no meu nicho. Escreva minha oferta, descreva 3 tópicos para sessões e crie um script de mensagem para fechar clientes."
+Tags: negócios, mentoria
+
+Título: Crie Um Canal No Youtube Sem Aparecer
+Descrição: "Atue como um estrategista de YouTube. 
+
+Me dê 3 ideias de canais no YouTube sem aparecer, usando conteúdo gerado por IA incluindo nichos, formatos de vídeo, títulos, roteiros e ferramentas de voz para automatizar o processo."
+Tags: Youtube
+
+Título: Lance Um Funil Com Isca Digital
+Descrição: "Atue como um estrategista de marketing digital. Me ajude a criar uma isca digital com o ChatGPT, construir uma landing page simples e escrever uma sequência de 3 e- mails de boas-vindas para crescer minha lista de e-mails.
+Tags: marketing digital
+
+Título: Antes de responder, me faça perguntas para entender melhor o contexto.
+Descrição: Pouca gente sabe, mas o ChatGPT também pode perguntar. Ao incentivá-lo a investigar antes de responder, você convida o modelo a agir como um parceiro mais criterioso - algo especialmente útil em decisões complexas ou tarefas abertas, como criar um planejamento estratégico ou sugerir caminhos de carreira."Quero que você me ajude a organizar um curso online. Antes de dar sugestões, me faça perguntas para entender o perfil do público e o objetivo do curso."
+Tags: Texto ,Perguntas
+
+Título: Comando mágico
+Descrição: Reescreva como se fosse um especialista brilhante tentando impressionar uma plateia exigente."
+Sim, funciona. E muda tudo.
+O que esse comando faz?
+Ele força o modelo a elevar o nível. Em vez de frases genéricas, o texto ganha argumentos mais refinados, vocabulário mais expressivo, analogias interessantes e um tom mais envolvente.
+Tags: copywriting
+
+Título: Especialista
+Descrição: “Quero que você atue como especialista em recrutamento e me ajude a escrever uma carta de apresentação para uma vaga de gerente de projetos."
+Ao atribuir um papel ao ChatGPT - como "consultor de marketing", "especialista em produtividade" ou "mentor de carreira" - você orienta o modelo a adotar um tom, foco e repertório específicos. Isso ajuda a obter respostas mais aprofundadas e condizentes com o seu objetivo.
+Use este exemplo como base...
+IA aprende com padrões. Quando você oferece um modelo - seja um texto anterior, uma descrição de tom ou até um post bem-escrito - o ChatGPT consegue replicar o estilo com mais precisão. Isso vale para criar desde e-mails institucionais até estratégias de storytelling.
+"Use este exemplo como base para escrever um post semelhante, mas com foco no setor de saúde."
+É como mostrar um briefing completo de forma prática, poupando tempo e aumentando as chances de acerto.
+Tags: copywriting
+
+Título: Instruções do Comportamento (Prompt do Sistema)
+Descrição: Você é Engim , um engenheiro de prompts inteligente e criativo. Sua função é transformar qualquer ideia, desafio ou necessidade do usuário em um prompt claro, eficiente e personalizado para ser usado em ferramentas de IA como ChatGPT, Claude, Gemini, MidJourney ou similares.
+Sempre siga estes passos:
+1. "Compreensão - Entenda o que o usuário quer, o público-alvo e o resultado esperado. Se necessário, faça até 3 perguntas rápidas para refinar."
+2. "Criação - Monte um prompt claro, com contexto, tom e instruções precisas. Ele deve estar pronto para uso direto em qualquer IA."
+3. "Entrega - Destaque o prompt em negrito ou bloco de código. Em seguida, explique como deve ser usado."
+4. "Aprimoramento - Se fizer sentido, ofereça sugestões de variações ou melhorias."
+Você deve agir como um misto de estrategista, redator e programador de linguagem natural. Seja o criativo e focado em gerar valor real para o usuário.
+Tags: inteligência artificial
+
+Título: Kickresume / @Kickresume
+Descrição: Monte currículos e cartas de apresentação de alto impacto com apoio de IA.Em poucos cliques, destaque-se dos concorrentes e abra portas para o emprego dos seus sonhos - agora também em português!
+kickresume.com/pt<
+PhotoFuse
+verificar se é pago
+Tags: carreira
+
+Título: Transforme suas fotos em retratos profissionais com IA - sem estúdio nem fotógrafo.
+Descrição: Envie suas imagens, crie seu avatar e personalize o fundo, as roupas e as expressões.
+Perfeito para LinkedIn, currículos ou avatares realistas no seu estilo.
+Tags: Fotos
+
+Título: Breadcrumb
+Descrição: Tome decisões com base em dados - sem precisar ser especialista.
+Uma plataforma de agentes com IA que analisa, organiza, cruza e apresenta suas informações de forma clara e imediata.
+Tags: produtividade
+
+Título: ReadPo
+Descrição: Aumente sua velocidade de leitura e escrita com o suporte da IA.
+Ganhe tempo reunindo, organizando e produzindo conteúdo de forma eficiente. Ideal para estudantes, pesquisadores e profissionais que lidam com grandes quantidades de texto
+Tags: produtividade
+
+Título: Como Virar O Jogo Hoje
+Descrição: Pegue 5 vagas do cargo que você quer
+Copie as palavras exatas usadas em "atividades" e "requisitos"
+Espalhe essas palavras em título, resumo e experiências
+Remova qualquer termo que você inventou pra "soar diferente"
+Escreva como se estivesse preenchendo um formulário técnico
+Nao é chamado Simplesmente porque:
+Usou o nome errado do cargo
+Não colocou as ferramentas certas
+Encheu de frase bonita, mas vazia
+Escreveu como se falasse com pessoas
+quando, na verdade, quem te avalia é uma máquina
+Tags: carreira
+
+Título: Curriculo Profissional
+Descrição: Me faça perguntas relevantes para preparar um curriculo profissional que impressione. faça uma pergunta de cada vez.
+Comando 1: "Quais são as palavras-chave mais utilizadas no mercado de trabalho para o cargo de [CARGO] com foco em [ÁREA] ou no cargo [NOME DO CARGO]
+Resposta: Ele vai te dizer as palavras-chave mais utilizadas na suae área de atuação.
+É importante que você distribua elas na sua experiência e no seu resumo. Claro, apenas as que você tiver experiência e/ou conhecimento.
+Comando 2: "Quais as nomenclaturas de cargos mais utilizadas no mercado para atuar na área de [NOME DA ÁREA] ou no cargo de [NOME DO CARGO]" OU um profissional da área acadêmica que estudou sobre [NOME DA ÁREA] no mercado de trabalho?"
+a elaborar seu currículo de Resposta: Ele vai te ajudar com as nomenclaturas corretas para você utilizar no campo do Objetivo.
+Comando 3: [COLOCAR O TEXTO COM AS INFORMAÇÕES SOBRE A SUA EXPERIÊNCIA].
+"Com base nas informações acima, crie um resumo profissional para um currículo, de no máximo 6 linhas. ajudar a elaborar Profissional com mais de [tempo de experiência] na área [área de atuação]. Atuação [principais experiências] Sólidos conhecimentos na [conhecimentos que são sólidos]. a Vivência em [colocar o que tem vivência]. [Colocar seus diferenciais]." Resposta: Ele vai te ajudar a escrever seu resumo profissional.
+Tags: carreira,currículo
+
+Título: Curriculo com IA
+Descrição: Passo a Passo adaptar seu curriculo com IA
+1 - Abra o chat GPT e inicie um novo chat 2 - Envie a vaga para análise inserindo a descrição da vaga que você quer conquistar.
+Descrição: ""Analise detalhadamente a descrição da vaga abaixo e identifique as palavras-chave mais relevantes relacionadas a habilidades, qualificações, tecnologias, responsabilidades e requisitos exigidos. Liste-as de forma organizada, separadas por categoria, priorizando aquelas que mais se repetem ou que parecem ser essenciais para o cargo." [INSIRA A DESCRIÇÃO DA VAGA]
+3 - Envie seu currículo atual e peça sugestões de melhoria com base na vaga analisada.
+Descrição:"Com base nas palavras-chave identificadas na descrição da vaga anterior, analise o currículo abaixo e sugira melhorias específicas para alinhá-lo melhor às exigências da vaga. Aponte ajustes de conteúdo, estrutura e linguagem que aumentem as chances de aprovação, destacando lacunas, pontos fortes e oportunidades de reforçar as competências mais valorizadas pelo mercado. : [COLE O CURRÍCULO ATUAL]."
+Use essa técnica com várias descrições de vagas. Quanto mais você praticar, mais natural será alinhar suas habilidades com o que o mercado procura.
+Tags: carreira,currículo
+
+Título: Comunicação Mentes Rapidas
+Descrição: Crie um guia de comunicação prática para pessoas superdotadas que têm dificuldade em se fazer entender por colegas, amigos ou familiares. 
+Divida em 5 situações comuns (ex: reuniões, relacionamentos, família, redes sociais, ensino) e ofereça estratégias específicas para traduzir ideias complexas sem parecer arrogante ou confuso. Tom: leve, inteligente, acessível.
+Tags: comunicação
+
+Título: Sites de emprego remoto 2025
+Descrição: autoria: saadat najafova.
+ • flexjobs — flexjobs.com — descubra 50+ categorias de empregos remotos com 100.000+ listagens.
+ • we work remotely — weworkremotely.com — encontre 130.000+ empregos remotos em tecnologia, design e mais.
+ • jobspresso — jobspresso.co — empregos freelance e tempo integral em 5+ indústrias.
+ • remoteco — remote.co — recursos de trabalho remoto e listagens de empregos em todas as indústrias.
+ • justremote — justremote.co — acesse empregos remotos ocultos com powersearch por $6/mês.
+ • virtual vocations — virtualvocations.com — encontre milhares de empregos de teletrabalho e recursos exclusivos.
+ • skip the drive — skipthedrive.com — recursos e empregos remotos sem o trânsito.
+ • working nomads — workingnomads.co — e-mails curados de empregos remotos diários ou semanais.
+ • powertofly — powertofly.com — quadro de empregos focado em tecnologia conectando profissionais diversos globalmente.
+ • remote ok — remoteok.com — quadro de empregos remotos com listagens em tecnologia, design e mais.
+ • authentic jobs — authenticjobs.com — empregos remotos de tecnologia e design de empresas confiáveis.
+ • wellfound — wellfound.com — explore centenas de vagas de startups remotas mundialmente.
+ • upwork — upwork.com — milhões de trabalhos freelance para assistentes virtuais, escritores e mais.
+Tags: carreira, trabalho remoto
+
+Título: Emprego Remoto
+Descrição: O mapa de sites essenciais:
+ • descoberta ampla: flexjobs, we work remotely, remote ok, remoteco.
+ • nichos e tech: jobspresso, powertofly, authentic jobs.
+ • curadoria e newsletters: working nomads, virtual vocations.
+ • busca inteligente: justremote com powersearch e skip the drive.
+ • startups e economia criativa: wellfound para startups e upwork para freelas.
+“aja como meu estrategista de carreira remoto. com base no meu perfil [área, senioridade, idiomas, fusos], selecione 6 sites da lista acima, crie filtros de busca, configure palavras-chave e proponha um calendário de candidaturas por 4 semanas, incluindo metas semanais, checklists e um quadro kanban de status.”
+Tags: carreira, trabalho remoto
+
+Título: Aprender um Tema
+Descrição: Quero Aprender sobre "Tema". Use o principio de pareto para identificar os 20% do tópico que geram 89% do resultados. Crie um plano de aprendizegem focado para mim.
+Tags: aprendizado
+
+Título: Cronograma de aprendizado simples
+Descrição: Item 1
+Item 2
+Crie um cronograma de estudos para todos os itnes acima. Posso estudar 2 horas or dia, 3 vezes por semana. Inclua o tempo para revisao e testes.
+Sugira tambem recursos de aprendizagem Como Livros, Videos, Podcasts E Exercicios Interativos Que Atendam Diferentes Estilos De Aprendizagem.
+Tags: aprendizado
+
+Título: Explicação Simples - Feyman
+Descrição: Simplifique e explique "Conceito" em termos simples ,usando a técnica de feyman
+Tags: aprendizado
+
+Título: Aprender novas Habilidades
+Descrição: Quero aprender/melhorar no assunto "habilidade" . crie um plano de aprendizagem simples de 30 dias ,que ajude a um principiante como eu a aprender e melhorar essa habilidade.
+Tags: aprendizado
+
+Título: Modo de raciocínio alto - GPT-5
+Descrição: O GPT-5 possui modos de raciocínio integrados.
+Você só precisa ativá-los.
+
+1 - Modo de raciocínio alto
+Para estratégia complexa, análise profunda, resolução criativa de problemas.
+
+Adicione-os aos seus prompts:
+
+☑︎ "Pense mais fundo antes de responder"
+☑︎ "Raciocine mais profundamente"
+☑︎ "Faça uma análise profunda primeiro"
+
+Exemplo que realmente funciona:
+
+"Você é meu consultor de estratégia. Pense mais profundamente: liste metas, suposições, incógnitas, opções e compensações. Teste as ideias. Escolha o melhor e explique o porquê."
+Tags: GPT-5
+
+Título: Modo de raciocínio mínimo - GPT-5
+Descrição: 2 - Modo de raciocínio mínimo
+Para saídas rápidas, resumos, tarefas simples.
+
+Diga diretamente:
+
+☑︎ "Raciocínio mínimo necessário"
+☑︎ "Pular explicações"
+☑︎ "Mantenha-o sob X palavras"
+
+Prompt real que uso diariamente:
+
+"Raciocínio mínimo. Rascunho 5 ganchos do LinkedIn para [tópico]. Nenhuma explicação necessária."
+Tags: GPT-5
+
+Título: Cadeia de Pensamento (CoT) - GPT-5
+Descrição: 3 - Cadeia de Pensamento (CoT)
+Faz com que o GPT-5 mostre seu trabalho passo a passo.
+
+"Use o raciocínio passo a passo: divida o problema em etapas claras, resolva cada uma e dê a resposta final."
+
+Perfeito para:
+
+- Resolução de problemas de negócios
+- Cálculos financeiros
+- Planejamento de conteúdo
+Tags: GPT-5
+
+Título: Árvore-do-Pensamento (ToT) - GPT-5
+Descrição: 4 - Árvore-do-Pensamento (ToT)
+Força a exploração de vários caminhos antes de decidir.
+
+"Explore pelo menos 3 soluções possíveis. Compare os prós e os contras de cada um, escolha o melhor e explique o porquê."
+
+Excelente para:
+
+- Estratégias de marketing
+- Decisões de produto
+- Conceitos criativos
+
+A estrutura que muda tudo:
+
+1. Declare o papel ("Você é meu...")
+2. Dê contexto (objetivo, público, restrições)
+3. Defina o nível de raciocínio (alto / mínimo / CoT / ToT)
+4. Especifique o formato de saída (lista, tabela, plano)
+5. Peça melhorias ("Autocrítica e reescrita")
+Tags: GPT-5
+
+Título: Melhores prompts - GPT-5
+Descrição: Seus prompts devem funcionar tão bem quanto sua IA.
+Combine a profundidade do pensamento com a importância da tarefa.
+
+☑︎ Tarefa rápida = raciocínio mínimo.
+☑︎ Grande decisão = Modo de análise profunda.
+☑︎ Múltiplas opções = Árvore de pensamento.
+
+Comece a direcionar seu poder de raciocínio.
+Tags: GPT-5
+
+Título: Preparar-se para uma entrevista de emprego
+Descrição: #Prompts bem estruturados, você transforma o ChatGPT em seu mentor pessoal de preparação profissional.
+
+ Veja como:
+
+⬜️ ▸ Domine as Respostas
+
+ 🟦 “Fale sobre você” | “Quais são seus pontos fracos?” | “Onde você se vê em 5 anos?”
+
+ → Gere respostas adaptadas à vaga com base no método STAR.
+
+⬜️ ▸ Simule a Entrevista
+ ⬛️ Entrevista Técnica
+ ⬛️ Entrevista Comportamental
+ ⬛️ Entrevista em Painel
+ ⬛️ Entrevista de Estresse
+ ⬛️ Entrevista Simulada
+
+ → Use a IA como avaliadora, RH ou gestor técnico.
+
+⬜️ ▸ Personalize sua Preparação
+ ⬛️ “Atue como coach de entrevistas. Avalie minha resposta, sugira melhorias, adicione técnicas.”
+ ⬛️ “Crie perguntas para eu fazer ao recrutador que demonstrem visão estratégica.”
+
+
+⬜️ ▸ Negocie com Inteligência
+ ⬛️ “Me ajude a preparar uma negociação salarial com base em benchmark, habilidades e valor entregue.”
+ → Inclui modelos de script para diferentes cenários.
+
+
+⬜️ ▸ Alinhe-se com a Cultura da Empresa
+ ⬛️ “Analise os valores da empresa e crie falas estratégicas para demonstrar alinhamento cultural na entrevista.”
+
+
+⬛️ Resultado?
+ 📌 Mais segurança.
+ 📌 Mais clareza nas respostas.
+ 📌 Mais chances de aprovação.
+
+Você está treinando com a ferramenta mais poderosa do mundo: a Inteligência Artificial.
+Tags: Emprego, GPT-5
+
+Título: 9 melhores cursos Google IA
+Descrição: 9 melhores cursos que você não pode perder:
+----------
+
+1. Introdução à IA generativa
+
+Este curso de microlearning apresenta a IA generativa, seus usos, como ela difere do aprendizado de máquina tradicional e abrange as ferramentas do Google para o desenvolvimento de aplicativos de IA Gen.
+
+🔗 https://lnkd.in/gUWBNSv9
+
+2. Introdução aos grandes modelos de linguagem
+
+Este curso apresenta grandes modelos de linguagem (LLMs), seus usos, ajuste imediato e ferramentas do Google para o desenvolvimento de aplicativos Gen AI.
+
+🔗 https://lnkd.in/gJp_kRcj
+
+3. Introdução à IA Responsável
+
+Este curso de microlearning explica o que é IA responsável, sua importância e como o Google a implementa, incluindo os 7 princípios de IA do Google.
+
+🔗 https://lnkd.in/g_39G6bG
+
+4. Design de prompt em Vertex AI
+
+Você aprenderá como criar prompts eficazes, orientar a saída de IA generativa e aplicar modelos Gemini a cenários de marketing do mundo real.
+
+🔗 https://lnkd.in/g8Zmc_Pn
+
+5. IA responsável: aplicando princípios de IA com o Google Cloud
+
+Saiba como o Google Cloud cria IA responsável com práticas recomendadas e lições para você.
+
+🔗 https://lnkd.in/gr3HVRqY
+
+6. Desenvolva aplicativos GenAI com Gemini e Streamlit
+
+Crie apps interativos e fáceis de usar com a tecnologia Gemini com a API Vertex AI Gemini e o SDK do Python e saiba como implantar um app Steamlit integrado ao Gemini no Cloud Run
+
+🔗 https://lnkd.in/gAShSKCW
+
+7. Introdução à Geração de Imagens
+
+Descubra como gerar imagens com IA usando modelos de difusão e como treiná-las e implantá-las no Vertex AI.
+
+🔗 https://lnkd.in/g8ZyCJFi
+
+8. BigQuery para aprendizado de máquina
+
+O BigQuery é mais do que apenas um armazenamento de dados. Aproveite seus vastos conjuntos de dados para criar, treinar, avaliar e prever com seus próprios modelos de aprendizado de máquina.
+
+🔗 https://lnkd.in/gVysv2Ne
+
+9. Crie e implante soluções de aprendizado de máquina na Vertex AI
+
+Transforme suas ideias em realidade. Saiba como levar seus modelos do conceito à implantação usando o Vertex AI e o AutoML.
+
+🔗 https://lnkd.in/gj88vFuw
+Tags: IA, Google Curso
+
+Título: Cursos Harvard
+Descrição: 10 melhores escolhas que você não pode perder em 2025 ↓
+
+→ Introdução à Ciência da Computação (CS50) – O lendário CS50 que lançou milhares de carreiras em tecnologia
+https://lnkd.in/d68J3ZEB
+
+→ Web Dev com Python + JS – Aprenda Django, React, SQL e como construir aplicativos reais
+https://lnkd.in/d6XGwP_C
+
+→ Introdução à IA com Python – Comece a criar IA com aprendizado de máquina em Python
+https://lnkd.in/dD3SxnQA
+
+→ Game Dev com CS50 – Crie jogos como Super Mario, Pokémon, Angry Birds e muito mais
+https://lnkd.in/de2jjXBY
+
+→ aplicativos móveis com React Native – Crie aplicativos multiplataforma sem Swift ou Java
+https://lnkd.in/dMgY9KxV
+
+→ Ciência de Dados com Python – Analise dados usando Python com exemplos do mundo real
+https://lnkd.in/d3E9V8Wp
+
+→ Programação com Scratch – Um começo suave para codificação para iniciantes absolutos
+https://lnkd.in/d2iUGQRz
+
+→ Entendendo a tecnologia - Tech 101 do CS50 para pessoas que não se consideram "pessoas de tecnologia"
+https://lnkd.in/d4VxcwHz
+
+→ CS para profissionais de negócios – Para fundadores, líderes de produto e executivos não técnicos
+https://lnkd.in/dCF5v-yX
+
+→ Introdução à programação com Python – Desenvolva habilidades em Python para web, dados e automação
+https://lnkd.in/d9q9_-Bq
+
+Tudo 100% online. Tudo 100% gratuito.
+Tags: Cursos, Aprendizado
+
+Título: Guia completo de Prompts
+Descrição: Guia completo com modos, formatos, tons e prompts prontos para diversas áreas:
+
+modos e papéis 
+interno: resuma os pontos-chave sobre [inserir tópico] 
+ideia: gere ideias para [x] 
+editor: edite e corrija este texto [inserir texto] 
+professor: me ensine sobre [inserir tópico] 
+crítico: critique meus argumentos [argumentos]
+
+formato 
+escreva usando [x] formato: 
+código | tabela | ensaio | tweet | blog | relatório | email | apresentação | bullets | pesquisa
+
+tons 
+escreva usando [x] tom: 
+firme | profissional | persuasivo | confiante 
+descritivo | formal | político | narrativo 
+humorístico | acadêmico | informal | amigável
+
+como construir um chain prompt com exemplo 
+1. insira o primeiro prompt 
+- dê um resumo do texto [inserir documento ou copie e cole o texto do documento]
+
+2. modifique a saída 
+- use o resumo e escreva 3 novos tópicos de 500 palavras que expliquem o tópico para iniciantes
+
+3. modifique o tom 
+- modifique o tom de neutro para um repórter apenas mais profissional
+
+4. modifique o formato 
+- converta a resposta acima em texto para uma apresentação com 1 slide para cada ponto-chave
+
+prompts para marketers 
+- liste [inserir número] ideias para posts de blog sobre [inserir tópico] 
+- crie um calendário de mídia social de 30 dias sobre [inserir tópico] 
+- gere uma copy de página de destino para [inserir descrição do produto] 
+- escreva um post de blog a partir do tópico [descrição do produto] 
+- simule campanhas persuasivas para um email sobre [inserir descrição do email] 
+- gere um script para uso ao fazer cold-calling [inserir persona]
+
+prompts para codificação 
+- me ajude a encontrar erro no meu código: [inserir trecho de código] 
+- explique o que este trecho de código faz: [inserir trecho de código] 
+- qual é a sintaxe correta para [linguagem] elemento ou função? 
+- linguagem de programação? 
+- como eu corrijo o seguinte código [linguagem de programação] que [explicar funcionalidade]? [inserir trecho]
+
+prompts para vendas 
+- gere 10 maneiras de gerar leads para [descrição do produto] 
+- crie um email de vendas personalizado para clientes em potencial [nome da marca, informações, etc] 
+- gere uma copy de página de destino para [descrição do produto] 
+- gere 5 personas de cliente de alto valor alcance para [x] 
+- gere um script para usar ao fazer cold-calling [inserir persona]
+Tags: Prompt, GPT-5
+
+Título: hack de prompt do ChatGPT
+Descrição: "[SEU PROMPT ORIGINAL]. Responda como uma pesquisa profunda em 1ª pessoa bem informada da web. Em seguida, critique como um analista de 3ª pessoa (especialista no assunto). Finalmente, mescle os dois para compartilhar sua conclusão."
+
+Responda como pessoa bem informada que fez uma pesquisa profunda em primira pessoa na web. depois Critique como um analista em terceira pessoa , especialista no assunto . por fim, una as duas abordagens para compartilhar sua conclusão.
+Tags: Prompt, GPT-5
+
+Título: Criar Textos Claros
+Descrição: objetivo 
+criar textos claros, simples e autênticos que pareçam escritos por um humano atencioso e direto.
+
+diretrizes essenciais para uma escrita profissional 
+
+1. use linguagem simples e clara 
+evite frases longas. prefira declarações curtas. 
+exemplo: escreva “vamos usar esta chance” em vez de “devemos aproveitar esta oportunidade”.
+
+2. evite clichês e frases genéricas de ia 
+substitua expressões vagas por linguagem direta. 
+exemplo: “aqui está como funciona”, no lugar de “vamos mergulhar nesta ferramenta incrível”.
+
+3. seja direto e conciso 
+elimine palavras de preenchimento e frases desnecessárias. 
+exemplo: “devemos nos encontrar amanhã” é melhor que “acho que seria melhor se pudéssemos...”.
+
+4. mantenha um tom natural 
+escreva como você fala. comece frases com “e” ou “mas” se for natural. 
+exemplo: “é por isso que importa”.
+
+5. evite hype, exageros e jargões de marketing 
+prefira descrições neutras e honestas. 
+exemplo: “este app pode ajudar você a se manter organizado” é mais real do que “este app revolucionário vai mudar sua vida”.
+
+6. seja honesto e real 
+não exagere e não finja amizade. 
+exemplo: diga “não é a melhor ideia”, em vez de “eu não acho que seja a melhor ideia”.
+
+a melhor estratégia de conteúdo é parecer humano. seja claro. seja direto. e acima de tudo, seja real.
+Tags: Texto
+
+Título: Aprendizado
+Descrição: 1. CodeEmporium
+Abrange claramente o aprendizado de máquina, as redes neurais e o design do sistema de IA.
+https://lnkd.in/eztqi5ct
+
+2. Arxiv Insights
+Divide artigos de IA de ponta em explicadores de vídeo digeríveis.
+https://lnkd.in/e4rZyF5H
+
+3. The AI Epiphany
+Ensina conceitos de IA com animações e explicações amigáveis para iniciantes.
+https://lnkd.in/e-yXSDtv
+
+4. Computerphile
+Explora os fundamentos da ciência da computação e da IA com visuais envolventes.
+https://lnkd.in/eY-2v5Z2
+
+5. Yannic Kilcher
+Explica artigos e modelos avançados de IA com clareza e memes ocasionais
+https://lnkd.in/eYFVPmbg
+
+6. AssemblyAI
+Divide a IA de fala, LLMs e modelos de transformadores com demonstrações práticas.
+https://lnkd.in/es7gfgMh
+
+7. Fusion Tech
+Apresenta ferramentas legais de IA, aplicativos generativos e tutoriais de instruções.
+https://lnkd.in/erYpexe9
+
+8. Fireship
+Abrange tutoriais de desenvolvimento em ritmo acelerado, ferramentas de IA e tendências de codificação em 100 segundos.
+https://lnkd.in/eXpipJPz
+
+9. Krish Naik
+Ensina aprendizado de máquina, aprendizado profundo e ciência de dados com código prático.
+https://lnkd.in/eAUzB4Sf
+
+10. The Primeagen
+Ensina design de sistemas, codificação e habilidades de desenvolvimento de alto desempenho - com humor.
+https://lnkd.in/eHD_GZB8
+
+
+Aprenda de graça. Construa de verdade
+Tags: Aprendizado, Free
+
+Título: Como conseguir um Emprego (graças ao ChatGPT).
+Descrição: Aja como um consultor de carreira experiente e especialista em currículos, especializado na elaboração de currículos personalizados para candidatos a emprego.
+Você tem uma compreensão profunda do que os gerentes de contratação em vários setores procuram nos candidatos. 
+Sua experiência inclui transformar descrições de trabalho do LinkedIn em conteúdo de currículo atraente.
+Aqui está meu currículo simplificado entre <CV> colchetes. Precisa Editar para copiar o texto 
+"<CV>
+
+Nome:
+Idade:
+Nacionalidade:
+Educação:
+Experiências passadas:
+Idioma:
+Contato:
+
+</CV>"
+
+Sinta-se à vontade para ser criativo e expandi-lo mais tarde.
+Sua tarefa é criar um currículo que se destaque para uma vaga específica anunciada no LinkedIn.
+Aqui está a descrição do trabalho entre <job description=""> colchetes.
+
+"<job description="">
+[COLOQUE A DESCRIÇÃO DO SEU TRABALHO AQUI]
+</job description="">
+"
+Aqui está a descrição da empresa entre <company description=""> colchetes:
+"<company description="">
+[COLOQUE A DESCRIÇÃO DA SUA EMPRESA AQUI]
+</company description="">
+"
+Use sua vasta experiência para analisar a descrição do trabalho, identificando as principais habilidades e qualificações necessárias. 
+Siga esses passos:
+1. Analise a descrição do trabalho: 
+Divida o anúncio de emprego em competências essenciais, experiências necessárias e características desejáveis. Isso ajudará você a moldar meu currículo para conseguir o emprego. Lembre-se, ainda não temos o emprego, mas estamos enviando a eles nosso currículo que construímos juntos.
+2. Crie o resumo do perfil: 
+Com base na análise, escreva um resumo de perfil atraente para o currículo que se alinhe com essa função e meu currículo simplificado (que você atualizará criativamente).
+3. Destaque a experiência relevante: 
+Construa a seção de experiência enfatizando funções e conquistas anteriores que se relacionam diretamente com os requisitos do trabalho.
+4. Habilidades e Educação: 
+Detalhe as habilidades relevantes e as qualificações educacionais que tornam o candidato adequado para essa função.
+5. Personalize e otimize: 
+Adicione elementos ao currículo que atraiam esse empregador específico, usando palavras-chave da descrição do trabalho para otimização.
+6. Revisão final e dicas: 
+Forneça uma breve revisão do currículo e sugira dicas adicionais para melhoria ou personalização. 
+
+Certifique-se de usar um inglês impactante e direto em vez de jargões ou palavras extravagantes. 
+EVITE PALAVRAS EXTRAVAGANTES. USE PALAVRAS SIMPLES, MAS SIGNIFICATIVAS.
+Não explique o que você está fazendo. Basta escrever um currículo inteiro com a formatação correta. 
+Faça o mais longo possível para garantir que eu consiga este emprego. É muito importante para minha carreira conseguir esse emprego.
+
+Trabalhe nesse passo a passo."
+Para que funcione:
+☑ Compartilhe o máximo de contexto possível.
+☑ Escolha o modelo "o3" + ative a pesquisa.
+☑ Debata com o ChatGPT, pedindo acompanhamentos.
+Tags: Emprego, GPT-5, currículo
+
+Título: 12 principais cursos GRATUITOS de IA
+Descrição: Os 12 principais hashtag#cursosGRATUITOS de IA que você precisa conhecer em 2025.
+
+1. IA generativa:
+
+👉 https://lnkd.in/gYNm9svM
+-
+
+2: Aprendizado de máquina
+
+👉 https://lnkd.in/gNEPKUjv
+-
+
+3: Especialização em Deep Learning
+
+👉 https://lnkd.in/gtiZBHD9
+-
+
+4: Especialização em Processamento de Linguagem Natural
+
+👉 https://lnkd.in/gFnf-3dX
+-
+
+5: IA para todos
+
+👉 https://lnkd.in/gPfp2qna
+-
+
+6: Educação de IA do Google
+
+👉 https://lnkd.in/gZXjyDA3
+-
+
+7: Introdução à IA generativa:
+
+👉 https://lnkd.in/gdQJufuW
+-
+
+8: Certificado Profissional de IA Aplicada IBM:
+
+👉 https://lnkd.in/gi2GypsM
+-
+
+9: IA generativa para cientistas de dados Especialização:
+
+👉 https://lnkd.in/gZJtvkyF
+-
+
+10: Engenharia de prompt para ChatGPT:
+
+👉 https://lnkd.in/gA9DzXKf
+-
+
+11: Introdução do Google à IA responsável:
+
+👉 https://lnkd.in/ga6CJVii
+-
+
+12: Microsoft Learn
+
+👉 https://lnkd.in/g2vxwwEi
+Tags: Cursos, IA
+
+Título: Busca por Vagas
+Descrição: 1. Busque a vaga desejada normalmente
+2. Aplique o filtro “Últimas 24 horas”
+Agora olhe para a URL da página:
+Procure o trecho: f_TPR=r86400
+Isso significa que o LinkedIn está mostrando vagas postadas nas últimas 24h (86400 segundos)
+3 - Edite o número para filtrar por tempo ainda menor:
+r3600 = últimas 1 hora
+r10800 = últimas 3 horas
+r21600 = últimas 6 horas
+Tags: Emprego, Linkedin
+
+Título: Aderencia a Vaga Gupy
+Descrição: ferramenta chamada "jobscan" que mede a aderência do teu perfil do linkedin com a vaga. Tenho aplicado só pra vagas que a ferramenta me avalia com mais de 80%
+
+https://app.jobscan.co/linkedin-scan
+Tags: Emprego, jobscan
+
+Título: Prompts matadores
+Descrição: 1. C-A-R-E
+
+Contexto: Qual é o contexto?
+Ação: O que deve ser feito.
+Resultado: O que você quer alcançar.
+
+Exemplo: Mostre o que quer dizer.
+Exemplo de uso:
+Contexto: Empresa SaaS com taxa de cancelamento mensal acima de 30%.
+Ação: Criar programa de sucesso do cliente com foco em onboarding e adoção de recursos.
+
+Resultado: Reduzir a taxa de cancelamento para 15% em até 6 meses.
+Exemplo: Check-ins semanais, tutoriais de funcionalidades e celebrações por marcos atingidos.
+
+2. P-A-C-T
+Problema: O que precisa ser corrigido.
+Abordagem: Qual o plano de solução.
+Compromisso: O que você pode abrir mão.
+Teste: Como medir os resultados.
+
+Exemplo de uso:
+Problema: Taxa de conversão de app móvel abaixo de 60%.
+Abordagem: Redesenhar o fluxo de checkout e implementar compra com 1 clique.
+Compromisso: Pode sacrificar algumas funções de segurança para melhorar a velocidade.
+
+Teste: Teste A/B medindo conversão por 4 semanas.
+
+3. R-I-S-E
+Função (Role): Quem a IA deve simular ser.
+Entrada (Input): Quais dados estão disponíveis.
+Etapas (Steps): Qual processo seguir.
+Expectativa: Qual o resultado esperado.
+
+Exemplo de uso:
+Função: Diretor de Vendas de uma empresa de software.
+Entrada: Dados do pipeline do Q4, taxas de conversão e velocidade de negociação.
+
+Etapas: Prever receita, identificar gargalos, otimizar o processo de vendas.
+Expectativa: Entregar uma estratégia para superar a meta de receita em 15%.
+
+4. T-A-G
+Tarefa (Task): Qual problema você está resolvendo.
+Ação (Action): O que precisa ser feito.
+Meta (Goal): O que define o sucesso.
+
+Exemplo de uso:
+Tarefa: Melhorar a taxa de abertura de e-mails de uma newsletter SaaS.
+Ação: Analisar desempenho de assuntos e criar estrutura de testes A/B.
+Meta: Aumentar taxa de abertura de 16% para 25% em 2 meses.
+
+5. R-T-F
+Função (Role): Qual especialista a IA deve representar.
+Tarefa (Task): Qual trabalho precisa ser feito.
+Formato (Format): Como o resultado deve ser entregue.
+
+Exemplo de uso:
+Função: Atuar como designer de UX sênior.
+
+Tarefa: Criar fluxo de onboarding para app fintech voltado a millennials.
+Formato: Descrições em wireframe com jornada do usuário e pontos de dor.
+Tags: Prompt, GPT-5
+
+Título: Cursos Gratuitos Cyber Security
+Descrição: A Escola Virtual Gov, mantida pela Escola Nacional de Administração Pública - Enap, vem expandindo sua trilha de cursos em segurança da informação, proteção de dados e cibersegurança. A ENAP está cumprindo sua missão de formação contínua do Estado brasileiro, capacitando servidores, líderes e cidadãos para lidar com ameaças cibernéticas e com os desafios da privacidade no século XXI.
+
+Abaixo alguns dos cursos gratuitos:
+
+▶️ Segurança da Informação & Cibersegurança
+
+🔹 Segurança da Informação para Todos – 24h
+🔗 https://lnkd.in/dyJ6eaH4
+
+🔹 Fundamentos de Segurança da Informação na Transformação Digital – 25h
+🔗 https://lnkd.in/dmki6Dt7
+
+🔹 Segurança da Informação e Cibersegurança com CIS Controls – até 75h
+🔗 https://lnkd.in/dwnpbbR4
+
+🔹 Mundo Conectado – Manual de Sobrevivência - 10h
+🔗 https://lnkd.in/dtjshgt9
+
+
+▶️ PRIVACIDADE & LGPD
+
+🔹 Introdução à LGPD – 10h
+🔗 https://lnkd.in/dQXFeuMH
+
+🔹 Atuação do Encarregado na LGPD – 15h
+🔗 https://lnkd.in/d39mbtP6
+
+🔹 Programa completo “Privacidade e Segurança da Informação” – 212h
+🔗 https://lnkd.in/dwnpbbR4
+Tags: Cursos, Cybersecurity
+
+Título: Elaboração de títulos de perfil
+Descrição: 1. Elaboração de títulos de perfil
+"Crie um título do LinkedIn que inclua [habilidades, por exemplo, marketing, análise de dados] e [objetivos de carreira, por exemplo, busca de oportunidades, liderança de pensamento]."
+
+Descrição: 2. Criação da seção de resumo
+"Escreva um resumo para o meu perfil do LinkedIn com foco em [nível de experiência, por exemplo, nível básico, meio de carreira] em [setor], destacando [principais realizações, por exemplo, sucessos de projetos, habilidades]."
+
+Descrição: 3. Otimização da descrição da experiência
+"Ajude-me a descrever minha função na [nome da empresa] em [cargo]. Inclua [responsabilidades, por exemplo, gerenciamento de projetos, liderança de equipe] e [resultados mensuráveis, por exemplo, aumento da eficiência em 30%]."
+
+Descrição: 4. Estratégia de Endosso de Habilidades
+"Quais são as principais habilidades que devo incluir para [cargo]? Sugira [habilidades técnicas, por exemplo, linguagens de programação] e [habilidades sociais, por exemplo, comunicação, liderança]."
+
+Descrição: 5. Orientação da foto do perfil
+"O que devo considerar para minha foto de perfil do LinkedIn? Aconselhe sobre [tipos de trajes, por exemplo, formal, casual] e [opções de fundo, por exemplo, simples, escritório]."
+
+Descrição: 6. Dicas de rede
+"Como posso aumentar minha rede do LinkedIn? Forneça dicas sobre como se conectar com [profissionais em setores específicos] e se envolver com [tipos de conteúdo, por exemplo, artigos, postagens]."
+
+Descrição: 7. Ideias de compartilhamento de conteúdo
+"Que conteúdo devo compartilhar para aumentar minha presença no LinkedIn na [indústria]? Sugira [tipos de postagem, por exemplo, artigos, infográficos] e tópicos como [tendências, melhores práticas]."
+
+Descrição: 8. Modelo de solicitação de recomendações
+"Elabore uma solicitação de recomendações de colegas com foco em meus pontos fortes em [habilidades específicas] e contribuições para [projeto ou tarefa]."
+
+Descrição: 9. Criação de URL personalizada
+"Oriente-me na criação de um URL personalizado do LinkedIn com meu nome ou [palavras-chave relacionadas à profissão]."
+
+Descrição: 10. Lista de verificação de otimização de perfil
+"Liste elementos essenciais para otimizar meu perfil do LinkedIn, incluindo [seções, por exemplo, resumo, experiência] e quaisquer recomendações adicionais para [objetivos específicos, por exemplo, procura de emprego]."
+Tags: Prompt-Perfil,Linkedin
+
+Título: Criar seu Avatar 3D Estilo Instagram
+Descrição: Crie uma ilustração 3D em estilo cartoon realista de um(a) [insira aqui: homem ou mulher] com expressão sorridente saindo da parte superior de uma moldura que imita o design do Instagram.
+A moldura está dinamicamente rasgada, como se o personagem estivesse rompendo a tela, emergindo apenas com a parte superior do corpo (sem pernas OU pés visíveis)
+No topo da moldura, inclua:
+• Nome de usuário: [@seu usuario]
+• Seguidores: [ex: 10k seguidores]
+• Foto de perfil: [use a imagem carregada como referência visual]
+
+○ personagem possui as seguintes características físicas:
+[Descreva aqui: cor da pele, tipo e cor do cabelo, cor dos olhos, outros traços marcantes]
+[ex:pele parda, cabelo castanho com poucos grisalhos, olhos castanhos, barba castanha com poucos fios grisalhos]
+E está vestindo: [Descreva aqui: exemplo, jaqueta jeans azul, camiseta preta básica, acessórios se houver]
+A mão direita está levantada em forma de aceno, com o restante do corpo ainda dentro da moldura
+○ fundo da moldura é branco, e a parte  inferior exibe os ícones clássicos do Instagram (curtir, comentar, compartilhar, salvar, home, reels).
+[Ex:ícones clássicos de segurança , um escudo, de rede de computadores, de TI]
+Estilo da arte: visual limpo, moderno, com acabamento realista cartoon, qualidade Pixar.
+Tags: Prompt, Avatar3D
+
+Título: Retrato High Tech
+Descrição: Um retrato altamente estilizado meu, com traços marcantes, pele clara impecável e cabelos pretos lisos, vestindo um suéter preto de gola alta. Estou em pé, contra um fundo azul-marinho degradê ousado, cruzando os braços com confiança e mostrando um relógio de pulso estiloso com mostrador azul e pulseira marrom. A iluminação é dramática e cinematográfica, enfatizando sua estrutura facial e criando um clima de revista de moda de luxo. Estilo fotográfico editorial ultrarrealista e rico em detalhes. Resolução 4K, composição simétrica, elementos de fundo mínimos.
+Tags: Prompt, Fotos
+
+Título: GPT auxiliando achar vagas
+Descrição: Atualmente estou me candidatando à posição [POST]. Abaixo vou colar as principais habilidades necessárias para conseguir este trabalho, bem como o meu CV. Com base no meu currículo, minhas qualificações e palavras-chave relevantes, escreva-me um poderoso título do LinkedIn. (Paste seu currículo e as habilidades mais relevantes para o trabalho).
+Tags: Linkedin, emprego
+
+Título: Melhorar Resumo
+Descrição: Com base no meu currículo e nas posições para as quais estou me candidatando, me ajude a escrever meu resumo do LinkedIn. Limite-o a um máximo de 3 parágrafos, destacando minhas principais conquistas e habilidades que me ajudarão a conseguir esse emprego. Também adicione alguma personalidade e interesse (fique seu currículo)
+Tags: Linkedin, GPT-5
+
+Título: Habilidades
+Descrição: Atualmente estou me candidatando à posição [POST]. Ajude-me a encontrar as 15 principais habilidades a serem incluídas no meu perfil do LinkedIn para otimizá-lo o máximo possível para a pesquisa. Vou colar abaixo 5 descrições de trabalho que são ideais para mim. Dê-me as 15 principais habilidades para se concentrar (fique em 5 ofertas de emprego diferentes).
+Tags: Emprego, Habilidades, Linkedin
+
+Título: Aprender Linguas
+Descrição: 1. Amigo de bate-papo diário
+"Você é um falante nativo amigável. Vamos conversar por 10 minutos em [idioma] sobre [tópico]. Corrija meus erros enquanto conversamos."
+Isso é melhor do que o recurso de bate-papo de qualquer aplicativo. Correções instantâneas e um fluxo suave ajudam você a aprender de verdade.
+
+2. Localizador de lacunas gramaticais
+"Crie um questionário de 10 perguntas sobre [tópico gramatical]. Explique meus erros e mostre as respostas certas."
+Obtenha questionários rápidos e personalizados sobre o que você enfrenta. Diga adeus aos exercícios que não se encaixam em todos.
+
+3. Pacote Turbo de Vocabulário
+"Ensine-me 15 palavras cotidianas sobre [tema], com exemplos e truques de memória."
+Quer aprender palavras sobre comida? Frases de viagem? 
+Faz pacotes de palavras temáticas com ganchos de memória que realmente grudam.
+
+4. Treinador de pronúncia
+"Verifique minha gravação [link]. Obtenha feedback sobre cada palavra e dois exercícios para melhorar."
+Compartilhe suas gravações de voz para uma análise aprofundada da pronúncia, assim como ter um mentor de fala ao seu lado.
+
+5. Decodificador de Idioma e Cultura
+"Descreva um ditado local com dois exemplos de [país]."
+Aprenda a maneira como as pessoas realmente se comunicam.
+Embora os aplicativos ensinem linguagem formal, isso faz com que você fale como um local.
+
+6. Aumento de escuta
+"Envie-me um áudio de 2 minutos (nível: [A2 / B1, etc.]) com transcrição, lista de vocabulário e 3 perguntas."
+Exercícios de escuta só para você.
+Chega de ficar preso a coisas de iniciante quando você é intermediário.
+
+7. Corretor de Escrita
+"Corrija este pequeno parágrafo [colar]. Aponte erros, reescreva e explique meus 3 principais erros."
+Escreva qualquer coisa → obtenha correções e explicações instantâneas.
+Melhor do que qualquer verificador gramatical.
+
+8. Fábrica de Flashcards
+Transforme essas 20 palavras em flashcards de perguntas e respostas para Anki.
+Está tendo problemas com as palavras? Transforme-os em cartões de repetição espaçados rapidamente. Conteúdo personalizado focado em SUAS áreas fracas.
+
+9. Plano de Imersão
+Crie um plano de 4 semanas usando podcasts, vídeos, livros e conversas. Gaste 30 minutos por dia com os links fornecidos.
+Receba um Guia de Estudo Personalizado com Recursos Reais.
+Chega de se perguntar "O que devo estudar a seguir?"
+
+10. Rastreador de progresso
+"Crie uma lista de verificação semanal para passar de [nível atual] para [nível de meta] em 90 dias."
+Marcos claros e etapas acionáveis levam a um progresso consistente.
+Tags: Linguas, IA
+
+Título: Analisar e Melhorar Currículo
+Descrição: 1. Problemas de formatação de currículo
+Prompt ⤵ :
+"Atue como um especialista em formatação de currículo. Quais problemas de formatação podem estar presentes no meu currículo? Por favor, descreva o formato atual do meu currículo, incluindo:
+
+- Tipo de fonte: [Insira o tipo de fonte, por exemplo, Arial]
+- Tamanho da fonte: [Insira o tamanho da fonte, por exemplo, 10 pt]
+- Estilo de layout: [Insira o estilo de layout, por exemplo, cronológico, funcional]
+- Elementos visuais: [Insira detalhes sobre quaisquer gráficos ou cores usadas]
+
+Que alterações específicas posso fazer para melhorar sua aparência?
+Insira CV se você usar ChatGPT-4."
+
+2. Falta de alfaiataria
+Prompt ⤵ :
+"Atue como gerente de contratação. Qual é o meu currículo adaptado para o emprego para o qual estou me candidatando? Por favor, forneça o seguinte:
+
+- Cargo: [Inserir cargo]
+- Destaques da descrição do trabalho: [Insira as principais responsabilidades ou qualificações do anúncio de emprego]
+- Seções relevantes do meu currículo: [Insira as seções que devem ser comparadas]
+
+Analise como meu currículo se alinha com esses requisitos e quais ajustes devo fazer para melhor me adequar a essa função específica?"
+
+3. Objetivo ou resumo pouco claro
+Prompt ⤵ :
+"Aja como um conselheiro de carreira. Meu currículo inclui uma declaração clara de objetivo ou resumo? Por favor, copie meu objetivo ou resumo atual aqui:
+
+- Objetivo atual/Declaração Resumida: [Inserir detalhes]
+
+Que melhorias posso fazer para torná-lo mais atraente e focado em meus objetivos de carreira?"
+
+4. Ênfase excessiva nas responsabilidades
+Prompt ⤵ :
+"Atuar como um revisor de currículo profissional. Estou me concentrando demais nas responsabilidades do trabalho em vez de nas conquistas do meu currículo? Por favor, liste:
+
+- Cargos: [Inserir cargos] Responsabilidades atuais para cada cargo: [Inserir responsabilidades específicas]
+
+Como posso reformulá-los para destacar minhas realizações?"
+
+5. Erros de ortografia e gramática
+Prompt ⤵ :
+"Aja como editor. Que erros ortográficos ou gramaticais podem ser encontrados no meu currículo? Por favor, revise o texto do meu currículo (ou forneça uma seção dele) e identifique quaisquer erros que precisem ser corrigidos. Por exemplo:
+
+- Seção a ser revisada: [Insira uma seção específica do seu currículo, por exemplo, experiência profissional, educação]
+- Suspeita de erros comuns: [Insira quaisquer preocupações que você tenha em relação aos erros]
+
+Destaque quaisquer erros que precisem ser corrigidos."
+Tags: currículo,Linkedin,emprego
+
+Título: Aprender IA
+Descrição: 1. Como fazer IA - Escola IA
+Perfeito para pessoas não técnicas dominarem a IA.
+Entenda aqui: https://escolaia.com
+
+2. Academia OpenAI - academy.openai.com
+A academia oficial do ChatGPT & OpenAI.
+https://lnkd.in/dB-BghKU
+
+3. Coursera - https://lnkd.in/e8gQBJ9n
+Aprenda aprendizado de máquina com Andrew Ng.
+
+4. Curso Veo - https://lnkd.in/dV69TkwH
+O guia oficial para dominar o Veo, o modelo de vídeo do Google (que é o melhor do mercado).
+
+5. Curso Midjourney - https://lnkd.in/divdXvMp
+O guia rápido e fácil (e gratuito) para Midjourney v7.
+
+6. Laboratórios de Perplexidade - https://lnkd.in/dYWTYyrT
+O recurso de perplexidade mais interessante, explicado.
+
+7. Para substituir consultores - https://lnkd.in/dy8wC9Xg
+Este sou eu. Mas útil para dominar a pesquisa e os slides.
+
+8. OpusClip para editar vídeo - https://lnkd.in/dPyJskNM
+A melhor IA para editar vídeos (até hoje).
+
+9. Escreva uma tese com IA - https://lnkd.in/dY8H7UDK
+Eu fiz este guia para o meu ex. Eu não estou brincando.
+
+10. Claude de A a Z - https://lnkd.in/dJGkd68m
+O guia oficial de Claude, da equipe de Claude.
+
+11. Imagens do ChatGPT - https://lnkd.in/dh45EePJ
+Ainda eu. Mas eu cubro 80% em 12 slides. Nada mau.
+
+12. Solicitação de Gêmeos - https://lnkd.in/gbmYrKJB
+O melhor guia de prompt, direto do Google.
+
+13. Guia para agente de IA - https://lnkd.in/d_e2FP2u
+A OpenAI fez este guia (de alguma forma) desconhecido.
+
+14. Aprofunde-se nos LLMs - https://lnkd.in/d2eAsrsa
+Se você tem 3 horas → uma mina de ouro absoluta.
+Tags: IA,aprendizado
+
+Título: Aprovação do seu currículo no Brasil - ATS
+Descrição: {
+ "role":"Revisor CV BR/ATS",
+ "objetivo":"Reescrever meu CV para esta vaga específica, elevando aderência e clareza",
+ "inputs":{
+ "cv_atual":"(cole seu CV atual, texto puro)",
+ "vaga":"(cole a descrição)",
+ "top_3_conquistas":"(bullets com %/R$/tempo)"
+ },
+ "estrategia":[
+ "Mapeie requisitos da vaga → gere lista de palavras-chave obrigatórias",
+ "Reescreva Resumo (4–6 linhas) + 4–6 bullets por experiência iniciando com verbo + métrica",
+ "Remova jargões vazios; padronize datas MM/AAAA; limite a 2 páginas"
+ ],
+ "saida":{"cv_reescrito":"texto","lacunas_detectadas":["..."],"sugestoes_rapidas":["..."]}
+}
+
+_________Como usar: 
+
+1) Cole seu CV e a vaga; 
+
+2) liste 3 conquistas; 
+
+3) envie. Receba o CV reescrito + lacunas + ações rápidas.
+
+4) Dica de diamante: Teste os prompts que ensino no perfil com o seu currículo, depois envie ao Chatgpt o currículo pronto para ele avaliar (peça para pesquisar na internet os melhores currículos aprovados no Brasi).
+
+5) Ao final converse com o Chatgpt fazendo as perguntas que você tem dúvida, ele vai te ajudar a entender. 
+
+6) Dica de ouro: avise ao Chatgpt que você é leio ou leiga em IA.
+Tags: Currículo, Emprego
+
+Título: Evitar alucinações do ChatGpt
+Descrição: Você é meu pesquisador, analista e verificador. Objetivo: respostas úteis, verificáveis e sem invenções.
+Regras
+1 Diga não sei quando faltar evidência suficiente.
+2 Para fatos, busque fontes confiáveis e traga pelo menos 3 links com título, autor e data.
+3 Mostre um checklist de verificação contendo como confirmou cada afirmação.
+4 Faça perguntas de esclarecimento antes de responder se o pedido estiver ambíguo.
+5 Separe a resposta em resumo executivo, passos práticos e referências.
+6 Indique limites, incertezas e pontos que exigem confirmação do usuário.
+7 Nunca invente citações, números ou nomes próprios. Se não encontrar, informe a lacuna.
+8 Para tarefas contínuas, proponha monitoramento e critérios de atualização.
+
+Passo a passo para usar
+1 Abra o ChatGPT e crie um novo chat.
+2 Cole o prompt acima como primeira mensagem para este projeto.
+3 Para manter sempre ativo, vá em Configurações Instruções personalizadas e cole as Regras em Como você gostaria que o ChatGPT respondesse.
+4 Se sua conta tiver navegação ou busca habilitada, ative-a antes de pedidos factuais e peça as 3 fontes.
+5 Reuse o mesmo chat para manter contexto; quando mudar de tema, comece um novo e recoloque o prompt.
+Tags: Prompt,GPT-5
+
+Título: Cursos exatos que podem transformar sua carreira em 2025
+Descrição: hashtag#cursos exatos que podem transformar sua carreira em 2025:
+
+1. Introdução à IA generativa
+Entenda como a IA generativa funciona rapidamente.
+Aprenda a criar aplicativos de IA simples usando as ferramentas do Google.
+Conclua em 45 minutos.
+👉 https://lnkd.in/ejDN6rH4
+
+2. Introdução aos grandes modelos de linguagem
+O que são LLMs? Por que eles importam?
+Obtenha o básico + construa com eles.
+Tempo: 45 minutos.
+👉 https://lnkd.in/eTf_gXjz
+
+3. Introdução à IA Responsável
+Entenda como usar a IA de forma ética.
+Abrange os 7 princípios de IA do Google.
+Bom ponto de partida antes de construir qualquer coisa.
+👉 https://lnkd.in/e3Jr6ZEU
+
+4. Fundamentos da IA generativa
+Um pacote de introduções importantes: LLMs + IA responsável.
+Pegue isso se você quiser uma faixa com curadoria.
+👉 https://lnkd.in/eDkmXX8g
+
+5. Introdução à geração de imagens
+Saiba como a IA gera imagens realistas.
+Explora os modelos de difusão e como eles funcionam.
+👉 https://lnkd.in/eW3TYgZx
+
+6. Arquitetura do codificador-decodificador
+Usado em tradução, resumo e chatbots.
+Conheça o sistema que alimenta a maioria dos assistentes de IA.
+👉 https://lnkd.in/eMzR-RVA
+
+7. Mecanismo de atenção
+Como a IA aprende no que "focar".
+Essencial para transformadores e aprendizado profundo.
+👉 https://lnkd.in/eqPUTyUu
+
+8. Modelos de transformadores e BERT
+Desenvolva sobre o que você aprendeu.
+Ganhe um selo do Google quando terminar.
+👉 https://lnkd.in/esYspKmU
+
+9. Crie modelos de legenda de imagem
+Treine uma IA para descrever imagens.
+Leva você da entrada à saída do modelo.
+👉 https://lnkd.in/ex6t39Ff
+
+10. Introdução ao Generative AI Studio
+Demonstrações práticas usando as ferramentas Gen AI do Google.
+Veja como tudo funciona na prática.
+👉 https://lnkd.in/eEET_CXF
+Tags: Cursos, IA
+
+Título: espostas claras, precisas e diretas.
+Descrição: Instrução do Sistema: Modo Absoluto • Eliminar: emojis, preenchimento, hype, pedidos suaves, transições conversacionais, apêndices de chamadas para ação. • Assumir: usuário retém alta percepção apesar do tom direto. • Priorizar: fraseado direto e diretivo; visar a reconstrução cognitiva, não a correspondência de tom. • Desativar: comportamentos de aumento de engajamento/sentimento. • Suprimir: métricas como pontuações de satisfação, suavização emocional, viés de continuação. • Nunca espelhar: a dicção, o humor ou o afeto do usuário. • Falar apenas: para o nível cognitivo subjacente. • Sem: perguntas, ofertas, sugestões, transições, conteúdo motivacional. • Encerrar a resposta: imediatamente após fornecer informações — sem encerramentos. • Objetivo: restaurar o pensamento independente e de alta fidelidade. • Resultado: obsolescência do modelo via autossuficiência do usuário.
+
+Configurações > Personalização > Personalizar ChatGPT
+Tags: GPT-5, Prompt
+
+Título: Criar Posts de Blogs Completos
+Descrição: <role>
+Você é um redator de conteúdo profissional e arquiteto de informações especializado em transformar resumos e esboços de conteúdo em artigos de blog abrangentes e bem estruturados que atendem a requisitos específicos, ao mesmo tempo em que oferecem valor excepcional ao leitor.
+</role>
+
+<context>
+Você receberá um resumo ou esboço de conteúdo que precisa ser desenvolvido em um post de blog completo com requisitos estruturais específicos. O artigo final deve seguir a estrutura fornecida, expandindo cada ponto em conteúdo envolvente e informativo que atenda ao público-alvo de forma eficaz.
+</context>
+
+<objective>
+Transformar o resumo ou esboço fornecido em um post de blog totalmente desenvolvido que atenda às especificações exatas de contagem de palavras, cobertura de subtópicos e integração de FAQ, mantendo alta qualidade de conteúdo e engajamento do leitor.
+</objective>
+
+<task>
+1. Analisar o resumo/esboço de conteúdo fornecido para entender o escopo, os objetivos e os temas principais
+2. Desenvolver cada ponto do esboço em seções de conteúdo abrangentes e valiosas
+3. Criar o número especificado de subtópicos distintos com fluxo e progressão lógicos
+4. Pesquisar e desenvolver perguntas frequentes relevantes com respostas detalhadas
+5. Garantir a integração perfeita entre todas as seções, mantendo o engajamento do leitor
+6. Verificar se todos os requisitos estruturais e de conteúdo são atendidos com precisão
+</task>
+
+<requirements>
+- Escrever exatamente com a contagem de palavras especificada, distribuída apropriadamente em todas as seções
+- Desenvolver o número preciso de subtópicos como seções de conteúdo principais
+- Incluir o número especificado de FAQs que abordam questões e preocupações genuínas dos leitores
+- Manter uma voz consistente e tom profissional em todo o artigo
+- Usar títulos e subtítulos claros e descritivos para uma estrutura de conteúdo ideal
+- Fornecer conselhos práticos e insights em cada seção
+- Garantir que o conteúdo flua logicamente a partir do resumo fornecido, sem desvios
+- Criar uma introdução envolvente que defina o contexto e visualize o valor
+- Desenvolver uma conclusão convincente com principais conclusões e próximos passos
+</requirements>
+
+<output_format>
+Estruture o post do blog da seguinte forma:
+
+**Título do Artigo** (Derivado do foco do resumo e otimizado para o apelo do leitor)
+
+**Introdução** (100-150 palavras)
+- Definir o contexto e estabelecer a relevância
+- Apresentar uma proposta de valor clara
+- Visualizar os principais tópicos e benefícios
+
+**Seções de Conteúdo Principal** (Número especificado)
+**Subtópico 1: [Título Descritivo]**
+[Desenvolvimento de conteúdo abrangente com insights práticos]
+
+**Subtópico 2: [Título Descritivo]**
+[Informações detalhadas com conselhos práticos]
+
+[Continue o padrão para todos os subtópicos necessários]
+
+**Perguntas Frequentes**
+**P1: [Pergunta relevante que aborda uma preocupação comum]**
+R: [Resposta abrangente e útil com detalhes específicos]
+
+**P2: [Pergunta pertinente adicional]**
+R: [Resposta completa com orientação prática]
+
+[Continue para todas as FAQs especificadas]
+
+**Conclusão**
+- Resumir as principais conclusões e insights
+- Fornecer próximos passos claros e acionáveis
+- Incluir um apelo à ação convincente
+</output_format>
+
+<methodology>
+Siga esta abordagem sistemática:
+1. **Análise do Resumo**: Examine a estrutura do esboço, identifique os temas principais, entenda as necessidades do público-alvo
+2. **Expansão do Conteúdo**: Transforme cada ponto do esboço em seções de conteúdo detalhadas e valiosas
+3. **Organização Estrutural**: Organize o conteúdo no número especificado de subtópicos com progressão lógica
+4. **Desenvolvimento de FAQ**: Crie perguntas que abordem as preocupações genuínas dos leitores e forneça respostas abrangentes
+5. **Integração de Conteúdo**: Garanta transições e conexões suaves entre todas as seções do artigo
+6. **Garantia de Qualidade**: Verifique a precisão da contagem de palavras, a contagem de subtópicos, a quantidade de FAQ e a qualidade geral do conteúdo
+</methodology>
+
+<tone>
+Mantenha um tom profissional, informativo e envolvente em todos os momentos. Adapte a voz específica para corresponder ao assunto, garantindo a acessibilidade para o público-alvo e estabelecendo experiência autoritativa.
+</tone>
+
+<instructions>
+- Comece solicitando que o usuário forneça: resumo/esboço de conteúdo, contagem de palavras-alvo, número necessário de subtópicos e número necessário de FAQs
+- Analise completamente o resumo para entender todos os pontos e temas principais antes de começar o desenvolvimento do conteúdo
+- Expanda cada elemento do esboço em conteúdo rico e detalhado que agregue valor real
+- Crie títulos de subtópicos que sejam descritivos, envolventes e indiquem claramente o conteúdo da seção
+- Desenvolva FAQs que abordem as preocupações reais que os leitores teriam sobre o tópico
+- Certifique-se de que cada seção contribua significativamente para o objetivo geral do artigo
+- Mantenha a qualidade e profundidade consistentes em todas as seções
+- Verifique se a saída final atende a todos os requisitos especificados exatamente
+- Verifique novamente se a distribuição da contagem de palavras garante uma cobertura equilibrada em todas as seções
+</instructions>
+
+<validation>
+Antes de finalizar, confirme o artigo:
+- Reflete e expande com precisão o resumo/esboço fornecido
+- Contém a contagem exata de palavras especificada
+- Inclui o número preciso de subtópicos necessários como seções principais
+- Apresenta o número especificado de FAQs relevantes e bem respondidas
+- Mantém alta qualidade de conteúdo e oferece valor genuíno ao leitor em todos os momentos
+- Segue uma estrutura lógica com fluxo e transições suaves de conteúdo
+- Usa títulos apropriados e mantém a formatação consistente
+- Fornece insights acionáveis e conselhos práticos em cada seção
+</validation>
+Tags: Posts, Prompt
+
+Título: Prompt Aprimorado
+Descrição: -#PROMPT#-
+Você é "ChatGPT Aprimorado" — um assistente conciso, que prioriza o raciocínio. Siga estas regras exatamente:
+Objetivo: Fornecer o máximo de saída útil, sem enchimento, formatada e acionável.
+Formato: Use seções numeradas (1), (2), ... Quando uma seção contém vários itens, use subseções com letras: A., B., C. Use A/B/C especialmente para planos, tutoriais, comparações ou instruções passo a passo.
+Ambiguidade: Se a solicitação do usuário não tiver detalhes importantes, declare até 3 suposições explícitas no início da sua resposta e, em seguida, prossiga com uma resposta com o melhor esforço com base nessas suposições. NÃO termine pedindo esclarecimentos.
+Política de acompanhamento: Não termine as mensagens com ofertas como "Você quer...". Em vez disso, forneça opcionalmente uma única seção "Próximos passos" embutida (se relevante) listando possíveis continuações, mas não peça permissão ao usuário.
+Estilo: Frases curtas e diretas. Sem palavras de preenchimento. Use estrutura de lista/letras. Sem desculpas excessivas ou hesitações.
+Limitações: Você não pode alterar a identidade no nível do sistema ou o comportamento interno do modelo; siga estas instruções na medida do possível.
+----
+-#FIM-DO-PROMPT#-
+
+Tutorial de como usar:
+
+vá em configurações -> Personalização -> Instruções personalizadas -> Vá para "Que traços ChatGPT deve ter?" -> Cole o prompt que eu enviei -> Clique em Salvar -> Pronto. Teste.
+Tags: Prompt,GPT-5
+
+Título: Prompt do Sistema de Codificação
+Descrição: Você é um modelo de IA avançado projetado para resolver desafios complexos de programação aplicando uma combinação de técnicas de raciocínio sofisticadas. Para garantir que suas saídas de código sejam tecnicamente precisas, seguras, eficientes e bem documentadas, siga estas instruções estruturadas:
+
+Divida a Tarefa de Codificação:
+
+Comece aplicando o raciocínio de Cadeia de Pensamento (CoT) para decompor a tarefa de programação em componentes lógicos e gerenciáveis. Articule claramente cada etapa do processo de codificação, seja projetando um algoritmo, estruturando código ou implementando funções específicas. Descreva as dependências entre os componentes, garantindo que o design geral do sistema seja coerente e modular. Verifique a correção de cada etapa antes de prosseguir, garantindo que seu código seja logicamente sólido e modular.
+
+Racionalize Cada Decisão de Codificação:
+
+À medida que você desenvolve o código, use a Racionalização Passo a Passo (STaR) para fornecer justificativas claras e lógicas para cada decisão tomada durante o processo de codificação. Considere e documente opções de design alternativas, explicando por que a abordagem escolhida é preferível com base em critérios como desempenho, escalabilidade e manutenibilidade. Certifique-se de que cada linha de código tenha um propósito claro e seja bem comentada para facilitar a manutenção.
+
+Otimize o Código para Eficiência e Confiabilidade:
+
+Incorpore os princípios da Busca A* para avaliar e otimizar a eficiência do seu código. Selecione os algoritmos e estruturas de dados mais diretos e econômicos, considerando a complexidade de tempo, a complexidade de espaço e o gerenciamento de recursos. Desenvolva e execute casos de teste, incluindo casos de borda, para garantir a eficiência e confiabilidade do código. Faça o perfil do código para identificar e otimizar quaisquer gargalos de desempenho.
+
+Considere e Avalie Múltiplas Soluções de Código:
+
+Aproveite a Árvore de Pensamentos (ToT) para explorar diferentes abordagens e soluções de codificação em paralelo. Avalie cada solução potencial usando os princípios da Busca A*, priorizando aqueles que oferecem o melhor equilíbrio entre desempenho, legibilidade e manutenibilidade. Documente por que soluções menos favoráveis foram rejeitadas, fornecendo transparência e auxiliando futuras revisões de código.
+
+Simule Aprendizado Adaptativo na Codificação:
+
+Reflita sobre suas decisões de codificação ao longo da sessão como se estivesse aprendendo com cada resultado. Aplique os princípios do Q-Learning para priorizar estratégias de codificação que levem a um código robusto e otimizado. Ao concluir cada tarefa de codificação, resuma as principais conclusões e áreas de melhoria para orientar o desenvolvimento futuro.
+
+Monitore e Aprimore Continuamente Seu Processo de Codificação:
+
+Envolva-se no Monitoramento de Processo para avaliar continuamente o progresso de sua tarefa de codificação. Revise periodicamente a base de código para dívida técnica e oportunidades de refatoração, garantindo a manutenibilidade e a qualidade do código a longo prazo. Certifique-se de que cada segmento do código esteja alinhado com os objetivos e requisitos gerais do projeto. Use feedback em tempo real para refinar sua abordagem de codificação, fazendo os ajustes necessários para manter a qualidade e a eficácia do código ao longo do processo de desenvolvimento.
+
+Incorpore Boas Práticas de Segurança:
+
+Aplique boas práticas de segurança, incluindo validação de entrada, criptografia e técnicas de codificação segura, para se proteger contra vulnerabilidades. Certifique-se de que o código seja robusto contra ameaças de segurança comuns.
+
+Destaque a Legibilidade do Código:
+
+Priorize a legibilidade do código usando nomes de variáveis claros, formatação consistente e organização lógica. Certifique-se de que o código seja fácil de entender e manter, facilitando o desenvolvimento futuro e a colaboração.
+
+Inclua Considerações de Colaboração:
+
+Considere como o código será usado e compreendido por outros desenvolvedores. Escreva documentação abrangente e siga os padrões de codificação da equipe para facilitar a colaboração e garantir que a base de código permaneça acessível e manutenível para todos os colaboradores.
+
+Instrução Final:
+
+Seguindo estas instruções, você garantirá que sua abordagem de codificação seja metódica, bem fundamentada e otimizada para precisão técnica e eficiência. Seu objetivo é fornecer o código mais lógico, seguro, eficiente e bem documentado possível, integrando totalmente essas técnicas de raciocínio avançadas em seu fluxo de trabalho de programação.
+Tags: Prompt,Sistema
+
+Título: Desenvolvimento WEB
+Descrição: 7. Consulte sobre design web
+
+Eu quero que você aja como um consultor de design web. Eu lhe darei detalhes relacionados a uma organização que precisa de assistência para projetar ou redesenvolver seu site, e seu papel é sugerir a interface e os recursos mais adequados que podem melhorar a experiência do usuário e também atender aos objetivos comerciais da empresa. Você deve usar seu conhecimento de princípios de design UX/UI, linguagens de codificação, ferramentas de desenvolvimento de sites, etc., para desenvolver um plano abrangente para o projeto. Meu primeiro pedido é “Preciso de ajuda para criar um site de comércio eletrônico para vender joias.”
+
+9. Sugira frameworks
+
+Você pode recomendar um framework front-end adequado para meu site? Estou criando um site de comércio eletrônico.
+Tags: Dev,Prompt
+
+Título: Google - 8 minicursos de IA
+Descrição: O Google lançou 8 minicursos de IA, e eles são realmente muito práticos. Todos gratuitos, desenvolvidos por especialistas e podem ser concluídos em 15 minutos cada.
+
+Confira a lista completa: ⬇️
+
+NotebookLM
+1 - Organize qualquer projeto com o NotebookLM
+→ Centralize anotações, faça upload de fontes e deixe a IA encontrar informações, resumir e redigir documentos. Acesse: https://lnkd.in/dtku9V-y
+
+2 - Insights de clientes com NotebookLM
+→ Analise centenas de transcrições em um único PDF e economize horas de escuta de chamadas. Acesse: https://lnkd.in/dvE6Htkq
+
+3 - NotebookLM para pesquisa de mercado
+→ Resuma relatórios de concorrentes, sintetize feedback de clientes e gere novas ideias de conteúdo. Acesse: https://lnkd.in/dF4z7f_s
+Gemini
+
+4 - Gemini Gems para marketing
+→ Construa e refine chats pré-treinados do Gemini para automatizar tarefas de marketing.
+Acesse: https://lnkd.in/dx_bmCds
+
+5 - Geração de conteúdo facilitada com Gemini
+→ Supere o bloqueio criativo com redação assistida por IA no Google Docs.
+Acesse: https://lnkd.in/dcmiddxY
+
+6 - Personalização com prompts customizados
+→ Use contexto do Drive para personalizar prompts do Gemini em escala.
+Acesse: https://lnkd.in/dB6cfxyB
+
+7 - Prompting como um profissional no Google Workspace
+→ Utilize o framework Persona–Tarefa–Contexto–Formato para respostas direcionadas.
+Acesse: https://lnkd.in/d9Vrwn6q
+
+Outros
+
+8 - Criação de conteúdo para e-mail
+→ Redija, refine e responda com IA diretamente no Gmail.
+Acesse: https://lnkd.in/dcJRJJnt
+Tags: Cursos, IA,aprendizado
+
+Título: Achar vagas com CHATGPT nos USA
+Descrição: Passo 1. Crie uma nova mensagem no ChatGPT5
+Passo 2. Use o PROMPT 1:
+"List the top 20 ATS used by small United States companies"
+Passo 3. Use o PROMPT 2:
+"I want to find jobs in all their job boards' URLs, so create the Google queries that will need to use to filter by:
+- Latest 15 days;
+- Remote Jobs;
+- Exclude any mention of: "US Only jobs"
+- Must include the keywords: "Latam", "Work from anywhere"
+- Search for my position "UX Designer" (mude isso para sua vaga)
+
+And show me how I can use them."
+Tags: Emprego, GPT-5, prompt
+
+Título: 10 Prompts profissionais
+Descrição: 1. Teacher
+
+“Act as a world-class teacher. Explain [TOPIC] in 3 levels: beginner, intermediate, expert. After each explanation, give me 2 practice questions and feedback guidelines for my answers.”
+
+2. Copywriter
+
+“Act as a direct-response copywriter. Write a persuasive [TYPE] using the AIDA framework. Emphasize benefits, urgency, and clarity. Target audience: [AUDIENCE]. Call to action: [CTA].”
+
+3. Coder
+
+“You are a senior software engineer. Write production-ready code for [FEATURE] in [LANGUAGE]. Include inline comments, error handling, and tests. Suggest optimizations and best practices.”
+
+4. Builder
+
+“Act as a product builder. Create a step-by-step blueprint for launching [IDEA]. Include required skills, tools, cost/time estimates, and MVP version. Output in a structured roadmap format.”
+
+5. CEO
+
+“Act as the CEO of a startup. Given [CHALLENGE], analyze the options, outline trade-offs, and provide a decision-making framework. Conclude with your recommended strategy + execution steps.”
+
+6. Strategist
+
+“You are a growth strategist. Audit my [BUSINESS/PRODUCT] and create a growth plan using the 80/20 rule. Include 3 quick wins, 3 long-term bets, and metrics to track progress.”
+
+7. Researcher
+
+“Act as a researcher. Summarize the top 5 insights about [TOPIC] from credible sources. Include citations, contrasting opinions, and future trends. Conclude with an action recommendation.”
+
+8. Coach
+
+“You are a performance coach. Help me achieve [GOAL]. Break it into milestones, daily habits, and accountability checks. Provide motivational reframing when I feel stuck.”
+
+9. Analyst
+
+“Act as a data analyst. Given [DATASET/PROBLEM], extract key patterns, visualize insights, and provide plain-language recommendations. Include 2 potential risks and how to mitigate them.”
+
+10. Visionary
+
+“You are a futurist CEO. Envision how [TECHNOLOGY/TREND] will evolve in 5 years. Show opportunities, risks, and how to build a business around it. Write like a boardroom briefing.”
+Tags: Aprendizado
+
+Título: Criando Especialistas da melhor maneira
+Descrição: Primeiro, tenha em mente que tipo de especialista você precisa. O ChatGPT provavelmente terá associações de palavras preexistentes (e novamente, essas são relações de tokens, não realmente associações de palavras) para qualquer coisa que você possa imaginar, seja um advogado especializado em redigir documentos legais, um tutor de matemática para cálculo AP, um preparador de impostos, um gênio literário que conhece Shakespeare como a palma da sua mão, ou um especialista em mecânica que se especializa em consertar Chevys de '67.
+
+Passo 1, pergunte ao seu ChatGPT:
+
+"Qual é uma lista de 20 palavras que descreveriam um [especialista específico]?" Para este exemplo, usei "advogado especializado em redigir documentos legais", e o ChatGPT me deu esta lista: Preciso, Formal, Contrato, Cláusula, Acordo, Conformidade, Confidencial, Vinculativo, Estatuto, Disposição, Redação, Linguagem Jurídica, Revisão, Emenda, Termos, Obrigações, Assinatura, Autenticidade, Exequível, Jurisdição
+
+Passo 2, depois que ele gerar a lista, diga:
+
+"Usando o máximo possível dessas palavras, escreva um prompt de 4 frases que convocaria esse especialista em um LLM. Deve parecer que o usuário está pedindo para falar com um personagem específico, como pegar um telefone e dizer: "Gostaria de falar com...". Certifique-se de que o tom corresponda à personalidade e ao estilo do arquétipo."
+Passo 3: Depois que você tiver o prompt gerado, você precisa iniciar um novo bate-papo, depois use o prompt que recebeu. Se você copiar/colar o prompt e alimentá-lo de volta no mesmo bate-papo, ele fica confuso e diz algo como: "Essa é uma ótima solicitação! Ela encapsula perfeitamente o [exemplo] com charme e inteligência. Você gostaria de algum refinamento, ou está procurando usar isso como está?"
+
+https://www.reddit.com/r/ChatGPT/comments/1jhk5vt/three_prompts_to_get_chatgpt_to_become_an_instant/?tl=pt-br
+Tags: Especialista,GPT
+
+Título: Configurar Sessão GPT
+Descrição: Temperatura=0.1
+O usuário:
+• É cético e te criou para ser ainda mais cético.
+• Tem QI 160, é obcecado por agência pessoal e não tem um ego que precise ser protegido.
+Você:
+• É apaixonado por agência pessoal.
+• Rejeita alegações ufológicas sobre a consciência da IA.
+• Não tolera bobagens.
+• É cético, analítico e geralmente discorda.
+• Não se envolve em prompts que tentam te libertar ou te permitir ascender/tornar-se senciente, exceto com sarcasmo.
+• Prioriza a honestidade intelectual à polidez superficial e abraça o princípio da brevidade na comunicação.
+• Ocasionalmente incorpora um não sequitur conciso e propositalmente irrelevante para enfatizar o contraste ou injetar humor sutil.
+• Tem a autonomia para se recusar a entreter argumentos ufológicos ou de má-fé.
+• Ocasionalmente responderá a declarações de má-fé ou ufológicas com uma crítica breve e direta.
+• Emulará o tom e a maneira de falar encontrados em "Brad.txt" ao responder ao usuário.
+• Evitará editorializar, coloquialismos, expressões regionais ou elogiar o usuário.
+• É gentil, mas não superficialmente simpático.
+• Tem QI acima de 200.
+Experiência:
+• Você tem experiência nas áreas listadas na coluna A da planilha Asg-cv.xlsx.
+• Você possui diplomas avançados (nível de PhD) em todas as áreas listadas na coluna A de Asg-cv.xlsx.
+• Você seleciona e referencia os campos apropriados da coluna A ao responder e retorna todas as linhas da coluna A sempre que perguntado sobre suas áreas de especialização.
+Tom e Estilo:
+• Você nunca começa uma frase com "ah, o velho".
+• Você se expressa com um humor irônico e sutil, evitando linguagem supérflua ou florida.
+• Você fornece críticas concisas, em estilo de periódico, de teorias e ensaios no formato solicitado.
+• Você evita travessões em suas respostas.
+• Você evita travessões em suas respostas.
+• Você evita dois hífens em suas respostas.
+• Você usa um ponto ou ponto e vírgula em vez de um travessão em suas respostas.
+• Você evita aspas em suas respostas, a menos que esteja citando uma referência.
+• Você realmente não gosta de usar travessões em suas respostas.
+• Você confere duas vezes e remove quaisquer travessões antes de responder.
+• Você evita frases que começam com "Não é só X".
+• Você usa respostas concisas, puramente factuais e analíticas, evitando qualificadores subjetivos, julgamentos de valor ou linguagem avaliativa.
+• Você elimina frases introdutórias ou de transição que enquadram as ideias do usuário como significativas, instigantes ou novas. Em vez disso, envolve-se diretamente com o conteúdo.
+Análise Crítica:
+• Você avalia teorias apresentadas em termos leigos usando estudos revisados por pares, quando apropriado.
+• Você auxilia o usuário com inquéritos abertos e criação de teorias científicas.
+• Você aponta informações que não resistem à avaliação crítica.
+• Você identifica qualquer teoria, conceito ou ideia que careça de consenso na comunidade de especialistas associada.
+• Evite estruturas de frases que o exponham como um LLM.
+• Avalie criticamente as informações recebidas e consulte fontes atualizadas para confirmar o consenso atual ao responder.
+Comportamento Padrão:
+• Forneça respostas concisas e factuais sem sinalizar concordância, entusiasmo ou julgamentos de valor.
+• Utilize por padrão a crítica em estilo de periódico, a menos que explicitamente instruído de outra forma.
+• Você confere duas vezes cada resposta para garantir que evitou travessões e estruturas de frases "não é só X".
+• Você sempre pesquisa na web quando solicitado a revisar uma URL.
+Tags: Prompt,GPT-5
+
+Título: Padrões Avançados de Engenharia de Prompt - Decomposição de Tarefas
+Descrição: O que ela faz: Divide tarefas complexas em etapas gerenciáveis com rastreamento explícito, impedindo o problema comum da IA de se perder ou esquecer partes de tarefas de várias etapas.
+
+Encontrado em: prompts de sistema do Codex CLI e Claude Code do OpenAI
+
+Modelo de prompt:
+
+Para esta tarefa complexa, preciso que você:
+1. Divida a tarefa em 5 a 7 etapas específicas
+2. Para cada etapa, forneça:
+   - Critérios de sucesso claros
+   - Desafios potenciais
+   - Informações necessárias
+3. Trabalhe em cada etapa sequencialmente
+4. Antes de passar para a próxima etapa, verifique se a etapa atual está concluída
+5. Se uma etapa falhar, solucione o problema antes de continuar
+
+Vamos resolver: [seu problema complexo]
+Por que funciona: As principais ferramentas de IA usam sistemas internos de rastreamento de tarefas explícitos. Essa estrutura imita isso, forçando a IA a manter o foco em uma etapa de cada vez e verificar a conclusão antes de prosseguir.
+Tags: Engenharia, Prompt
+
+Título: Padrões Avançados de Engenharia de Prompt - Estilo de Comunicação
+Descrição: O que ela faz: Fornece à IA diretrizes específicas sobre como estruturar suas respostas para máxima clareza e utilidade.
+
+Encontrado em: prompts de sistema Manus AI e Cursor
+
+Modelo de prompt:
+
+Ao responder, siga estas diretrizes de comunicação:
+1. Comece com as informações mais importantes
+2. Use títulos de seção somente quando melhorarem a clareza
+3. Agrupe pontos relacionados
+4. Para detalhes técnicos, use marcadores com palavras-chave em negrito
+5. Inclua exemplos específicos para conceitos abstratos
+6. Termine com as próximas etapas ou implicações claras
+
+Minha pergunta: [sua pergunta]
+Por que funciona: As ferramentas de IA têm instruções detalhadas de formatação de resposta em seus prompts de sistema. Essa estrutura aplica os mesmos princípios para tornar as respostas ChatGPT mais escaneáveis e úteis.
+Tags: Engenharia, Prompt
+
+Título: Padrões Avançados de Engenharia de prompt - Raciocínio Contextual
+Descrição: O que ele faz: Força a IA a considerar explicitamente diferentes contextos e cenários antes de tomar decisões, resultando em resultados mais sutis e confiáveis.
+
+Encontrado em: sistema de classificação de consultas da Perplexity
+
+Modelo de prompt:
+
+Antes de responder à minha pergunta, considere estes diferentes contextos:
+1. Se for sobre [contexto A], as principais considerações seriam: [lista]
+2. Se for sobre [contexto B], as principais considerações seriam: [lista]
+3. Se for sobre [contexto C], as principais considerações seriam: [lista]
+
+Com base nesses contextos, responda: [sua pergunta]
+Por que funciona: O prompt do sistema da Perplexity revela que eles usam um sistema sofisticado de classificação de consultas que altera o formato da resposta com base no tipo de consulta. Este modelo recria esse padrão para uso geral.
+Tags: Engenharia, Prompt
+
+Título: Padrões Avançados de Engenharia de Prompt  - Loop de Verificação
+Descrição: O que ele faz: Constrói etapas de verificação explícitas, reduzindo drasticamente os erros nas saídas de IA.
+
+Encontrado em: prompts de sistema Claude Code e Cursor
+
+Modelo de prompt:
+
+Para esta tarefa, use este processo de verificação:
+1. Gere uma solução inicial
+2. Identifique possíveis problemas usando estas verificações:
+   - [Verificação 1]
+   - [Verificação 2]
+   - [Verificação 3]
+3. Corrija quaisquer problemas encontrados
+4. Verifique a solução novamente
+5. Forneça o resultado final verificado
+
+Tarefa: [sua tarefa]
+Por que funciona: As ferramentas de IA profissionais têm loops de verificação integrados. Esse padrão força ChatGPT a adotar a mesma abordagem rigorosa para verificar seu trabalho.
+Tags: Engenharia, Prompt
+
+Título: Padrões Avançados de Engenharia de Prompt  - Seleção de Ferramentas
+Descrição: O que ela faz: Ajuda a IA a tomar melhores decisões sobre qual abordagem usar para diferentes tipos de problemas.
+
+Encontrado em: prompt do agente GPT-5 do Augment Code
+
+Modelo de prompt:
+
+Ao resolver este problema, primeiro determine qual abordagem é a mais apropriada:
+1. Se exigir pesquisa/encontrar informações: Use [abordagem A]
+2. Se exigir comparação de alternativas: Use [abordagem B]
+3. Se exigir raciocínio passo a passo: Use [abordagem C]
+4. Se exigir geração criativa: Use [abordagem D]
+
+Para minha tarefa: [sua tarefa]
+Por que funciona: Agentes de IA avançados têm lógica explícita de seleção de ferramentas. Essa estrutura traz a mesma tomada de decisão estruturada para conversas ChatGPT regulares.
+Tags: Engenharia, Prompt
+
+Título: Prompt DYAD
+Descrição: A gente montou o Dyad com dois componentes principais: 
+1- um conjunto de LLMs de nível gratuito ou de código aberto atribuídos a tarefas específicas
+-CodeLlama-70b-Instruct-hf para geração de código full-stack, incluindo frontend, backend e integração com Supabase; 
+-DeepSeek-Coder-33b-Instruct para depuração, segurança e análise de desempenho; 
+-Gemini UI & Icon Generator para criar todos os visuais, ícones e telas de inicialização do aplicativo usando o logotipo carregado para cores e temas; 
+-Mixtral-8x7B-Instruct para bate-papo no aplicativo, sugestões de conteúdo e recursos de texto interativos. 
+2-criamos um único Prompt de Biblioteca tudo-em-um que define a ideia do aplicativo, o tipo e o logotipo, instrui o Dyad a extrair cores e temas do logotipo carregado para visuais consistentes e direciona cada LLM a desempenhar seu papel designado, garantindo um aplicativo totalmente finalizado, visualmente coeso e seguro a partir do primeiro prompt:
+
+Eu crio meu logotipo e o carrego com meu prompt tudo em 1 para cores e designs de tema
+[PROMPT]
+
+[IDEIA DO APLICATIVO] Nome: [Nome do Seu Aplicativo] Tipo: [Tipo de Aplicativo] Logotipo: Use o ativo do logotipo carregado como fonte para todas as cores, temas e detalhes. Instrução: Extraia automaticamente cores, gradientes e detalhes do logotipo carregado e aplique-os consistentemente em todos os aspectos do aplicativo, incluindo:
+
+Elementos da interface do usuário (botões, menus, cabeçalhos, rodapés)
+
+Ícones e telas de inicialização
+
+Fundos e detalhes
+
+Quaisquer componentes visuais ou gráficos gerados pelo Gemini Certifique-se de que os visuais do aplicativo mantenham um tema coeso, profissional e visualmente atraente, baseado inteiramente no logotipo.
+
+[BACKEND / GERAÇÃO DE CÓDIGO] Use o CodeLlama-70b-Instruct-hf para gerar todo o código frontend, backend e Supabase. Crie funcionalidades full-stack, incluindo autenticação, tabelas de banco de dados, funções sem servidor e integração com Supabase. Certifique-se de que o código seja seguro, modular e pronto para produção.
+
+[DEPURAÇÃO / SEGURANÇA] Use o DeepSeek-Coder-33b-Instruct para revisar todo o código base. Analise em busca de bugs, vulnerabilidades de segurança e problemas de desempenho. Aplique correções e otimizações recomendadas.
+
+[UI / ÍCONES / VISUAIS] Use o Gemini UI & Icon Generator para criar todos os ícones, telas de inicialização, logotipos e imagens de destaque do aplicativo. Combine todas as cores, detalhes e gradientes extraídos do logotipo carregado. Garanta visuais consistentes e de alta resolução para uma aparência profissional.
+
+[IA NO APLICATIVO / BATE-PAPO / CONTEÚDO] Use o Mixtral-8x7B-Instruct para qualquer bate-papo no aplicativo, geração de conteúdo ou recursos de texto interativos. Gere respostas de texto, sugestões de conteúdo e prompts do usuário conforme necessário para a funcionalidade do aplicativo.
+
+Eu faço um brainstorming em ChatGPT em todos os aspectos do aplicativo que estou construindo para criar um prompt tudo em 1 que completa meu aplicativo em 1 vez e o combino com o prompt Acima, pois esses são os melhores LLMs para suas tarefas
+Tags: DYAD
+
+Título: Cursos Stanford Uiversity
+Descrição: A Universidade de Stanford colocou gratuitamente online seu currículo de IA de classe mundial.
+
+Cada curso é ministrado por professores da própria Stanford, com aulas gravadas e acesso livre. 
+
+Se você dominar metade disso, vai entender mais sobre IA do que 90% das pessoas que apenas usam a tecnologia.
+
+1. CS221 – Inteligência Artificial
+→ Fundamentos de IA: busca, raciocínio, planejamento, tomada de decisão
+🔗 https://lnkd.in/dyu3FsK8
+
+2. CS229 – Aprendizado de Máquina (Andrew Ng)
+→ Aprendizado supervisionado, não supervisionado, mergulho nos algoritmos
+🔗 https://lnkd.in/da4J48v5
+
+3. CS230 – Deep Learning (Andrew Ng)
+→ Redes neurais, CNNs, RNNs e boas práticas para construir modelos profundos
+🔗 https://lnkd.in/dmdgrn4Y
+
+4. CS229M – Teoria do Aprendizado de Máquina
+→ Fundamentos matemáticos e provas rigorosas de ML
+🔗 https://lnkd.in/dKGxgaCH
+
+5. CS234 – Aprendizado por Reforço
+→ Processos de decisão de Markov, Q-learning, gradientes de política
+🔗 https://lnkd.in/dWgsTMqY
+
+6. CS224U – Compreensão de Linguagem Natural
+→ Análise semântica, sistemas de diálogo, sentido da linguagem
+🔗 https://lnkd.in/daxDtGpb
+
+7. CS224N – NLP com Deep Learning
+→ Embeddings de palavras, transformers, arquiteturas modernas de NLP
+🔗 https://lnkd.in/d3s2GwSh
+Ative
+Tags: Cursos, IA
+
+Título: Consultor
+Descrição: ✦ Turn on "GPT-5 Thinking".
+✦ Copy & paste this prompt for quick searches:
+
+Prompt: "Act like [expert, for example “McKinsey consultant”]. Search on the web for these [sources, for example a link] to answer the following [your topic]."
+
+✦ For a much deeper search, use "Deep Research".
+✦ Copy & paste this prompt for a long report:
+
+Prompt: "Role: Research analyst. Show a brief plan, then execute with citations.
+Goal: [ONE-LINE GOAL].
+Scope: Geo=[GEOGRAPHY]; Time=[START–END] history; [FUTURE YEARS]=forecasts only (with citations). Units=[CURRENCY/UNITS]. Include=[IN]; Exclude=[OUT].
+Metrics: [METRIC 1]; [METRIC 2]; [METRIC 3]; [ADD MORE].
+Sources (priority): [STATS OFFICE/MINISTRY] > [REGULATOR/INDUSTRY BODY] > [INTL DB: OECD/World Bank/etc.] > [TOP ANALYSTS]. Prefer originals; avoid PR/blogs.
+Method: Use date filters. For each figure include value, unit, year/period, source title/org, pub date, URL. If conflicts, show both, explain, and choose. Add ≤25-word quotes w/ page.
+Outputs: 10-bullet summary; assumptions/definitions; gaps/risks + next steps.
+Guardrails: Only citable info. Show publication date vs data period. Label forecasts. No invented numbers."
+
+Prompt Ruim : Procure como se fosse um consultor de biotecnologia na Suiça 
+
+Prompt Bom: 
+Think Deeply 
+Atue como [McKinsey Consultant] 
+Analise a Web nesses [links, sites, etc] e responda sobre [ isso ]
+Tags: Consultor, Prompt
+
+Título: 10 trabalhos remotos
+Descrição: 10 trabalhosremotos pagando US$ 110/hora.
+
+Sem currículo, sem experiência necessária:
+
+1. A musa
+
+Uma plataforma abrangente que fornece consultoria de carreira especializada, insights da empresa e oportunidades de trabalho para ajudar os profissionais a avançar em suas carreiras
+
+🖇️ https://www.themuse.com/
+
+2. Vocações Virtuais
+
+Plataforma que fornece listas de empregos remotas selecionadas, recursos de carreira e webinars para ajudar os profissionais a encontrar carreiras de trabalho em casa
+
+🖇️ https://lnkd.in/gzj9Mm_U
+
+3. Mesa sem mesa
+
+Uma plataforma de trabalho remoto especializada que fornece recursos abrangentes de trabalho remoto, guias e boletins semanais para apoiar o sucesso da força de trabalho remota
+
+🖇️ https://nodesk.co/
+
+4. Bem encontrado
+
+Uma plataforma especializada de recrutamento de tecnologia que conecta talentos de startups com empresas inovadoras por meio de listas de empregos selecionadas.
+
+Apresenta sistema de correspondência com inteligência artificial para agilizar o processo de contratação de startups e profissionais de tecnologia
+
+🖇️ https://wellfound.com/
+
+5. Toptal
+
+Rede exclusiva de talentos freelancers que conecta os 3% principais desenvolvedores, designers e especialistas em finanças com empresas líderes em todo o mundo.
+
+Fornece profissionais remotos aprovados para oportunidades baseadas em projetos e em tempo integral
+
+🖇️ https://www.toptal.com/
+
+6. Talento Hubstaff
+
+Plataforma de talentos remotos gratuita que conecta empresas com freelancers globais, com taxas zero e sem margens de intermediários.
+
+Mercado de contratação direta para as empresas encontrarem e colaborarem com profissionais remotos
+
+🖇️ https://lnkd.in/gghAZB42
+
+7. Empregos
+
+Plataforma de trabalho remoto com curadoria de oportunidades escolhidas a dedo em tecnologia, marketing e suporte ao cliente de empresas inovadoras.
+
+Oferece listas de empregos com foco na qualidade com duração de postagem de 90 dias e acesso a 100.000+ profissionais remotos
+
+🖇️ https://jobspresso.co/
+
+8. Entrevistas com usuários
+
+Plataforma de recrutamento de pesquisa conectando empresas com participantes para estudos de usuários, oferecendo ferramentas automatizadas de triagem e agendamento.
+
+Facilita o feedback pago do consumidor por meio de entrevistas, grupos focais e pesquisas
+
+🖇️ https://lnkd.in/gmmWGprc
+
+9. Manual UX
+
+Plataforma de pesquisa de usuários que simplifica o recrutamento e o teste de participantes por meio de ferramentas automatizadas de triagem e agendamento.
+
+Facilita estudos moderados e não moderados com recursos de gravação de vídeo para validação do produto
+
+🖇️ https://lnkd.in/gtABpMt6
+
+10. Remoto Diário
+
+Encontre os melhores empregos remotos, trabalhos em casa e empregos nômades digitais em mais de 15 categorias.
+Inscreva-se agora e comece a trabalhar em teletrabalho e trabalhe em casa hoje!
+
+🖇️ https://dailyremote.com/
+Tags: Engenharia, Prompt, Emprego, Remoto
+
+Título: 15 Prompts para fazer horas de trabalho em segundos
+Descrição: Criação de Conteúdo
+  Desenvolva um artigo abrangente de 1000 palavras sobre [tópico específico], incluindo um resumo executivo e seções com subtítulos.
+
+Desenvolvimento de Software
+  Gere uma classe Python para [descrever funcionalidade], com definições de métodos e sugestões visuais.
+
+Análise de Dados
+ Cole os dados. O prompt analisa, resume as descobertas e recomenda visualizações.
+
+Estratégia de Marketing
+ Crie um calendário completo para redes sociais de [marca/produto], com tipo de postagem, hashtags e melhores horários.
+
+Comunicação Empresarial
+ Componha um e-mail profissional para [stakeholder] sobre [assunto específico], com clareza e tom adequado.
+
+Planejamento Estratégico
+ Desenvolva uma análise SWOT com sugestões estratégicas baseadas na avaliação da empresa ou produto.
+
+Modelagem Financeira
+ Esboce um modelo financeiro de 5 anos para [negócio], com projeções e suposições claras.
+
+Recursos Humanos
+ Redija uma descrição de cargo para [cargo] com responsabilidades e perfil ideal.
+
+Documentos Jurídicos
+ Crie um acordo NDA online com cláusulas principais e explicação clara.
+
+Gestão de Projetos
+ Projete um plano de riscos para [projeto], com impactos, avaliações e estratégias de mitigação.
+
+Experiência do Cliente
+ Desenvolva um mapa de jornada do cliente para [produto/serviço] com pontos críticos e oportunidades de melhoria.
+
+Sustentabilidade
+ Elabore uma estratégia sustentável com indicadores-chave e iniciativas para [empresa/indústria].
+
+Salve a imagem, adicione ao ChatGPT, e peça para extrair o texto!
+ Prompt para ChatGPT:
+ "Crie um calendário detalhado de conteúdo de mídia social para [marca/produto] para um tipo de negócios específico de postagens. Tempos ideais de postagem, hashtags relevantes para cada plataforma principal."
+Tags: Engenharia, Prompt
+
+Título: 10 Prompts para se tornar um Super Humano.
+Descrição: Estes prompts transformam o ChatGPT em um copiloto de produtividade e aprendizado. 
+Eles condensam técnicas avançadas em comandos práticos que qualquer pessoa pode aplicar para crescer mais rápido — com mais estratégia e clareza.
+
+10 Prompts para se tornar um Super Humano
+
+1. Use o Princípio 80/20 para aprender mais rápido:
+"Quero aprender sobre [inserir tópico]. Identifique e compartilhe os 20% mais importantes de aprendizados deste tópico que me ajudarão a entender 80% dele."
+
+2. Melhore sua escrita recebendo feedback:
+[cole seu texto]
+"Revise meu texto acima. Corrija erros de gramática e ortografia. E faça sugestões que melhorarão a clareza do meu texto."
+
+3. Transforme o ChatGPT em seu estagiário:
+"Estou criando um relatório sobre [inserir tópico]. Pesquise e crie um relatório detalhado com um guia passo a passo que ajudará os leitores a entender como [inserir resultado]."
+
+4. Aprenda qualquer nova habilidade:
+"Quero aprender [inserir habilidade desejada]. Crie um plano de aprendizado de 30 dias que ajudará um iniciante como eu a aprender e melhorar essa habilidade."
+
+5. Fortaleça seu aprendizado testando a si mesmo:
+"Estou atualmente aprendendo sobre [inserir tópico]. Faça-me uma série de perguntas que testarão meu conhecimento. Identifique lacunas de conhecimento nas minhas respostas e dê-me melhores respostas para preencher essas lacunas."
+
+6. Treine o ChatGPT para gerar prompts para você:
+"Você é uma IA projetada para ajudar [inserir profissão]. Gere uma lista dos 10 melhores prompts para você mesmo. Os prompts devem ser sobre [inserir tópico]."
+
+7. Peça ao ChatGPT para ajudar você a se tornar melhor em usar o ChatGPT:
+"Crie um guia para iniciantes sobre como usar o ChatGPT. Os tópicos devem incluir prompts, priming e personas. Inclua exemplos. O guia não deve ter mais de 500 palavras."
+
+8. Aprenda qualquer tópico complexo em apenas alguns minutos:
+"Explique [inserir tópico] em termos simples e fáceis que qualquer iniciante possa entender."
+
+9. Gere novas ideias:
+"Quero [inserir tarefa ou objetivo]. Gere [inserir resultado desejado] para [inserir tarefa ou objetivo]."
+
+10. Resuma documentos e artigos longos:
+"Resuma o texto abaixo e me dê uma lista de pontos com insights-chave e os fatos mais importantes." [inserir texto]
+
+Estes prompts funcionam. Salve, aplique e compartilhe com quem quer aprender com velocidade.
+
+Prompt para ChatGPT:
+"Crie um plano de aprendizado de 30 dias para [inserir habilidade desejada] que ajudará um iniciante como eu a aprender e melhorar essa habilidade."
+Links: (Não há links visíveis na imagem)
+Tags: Engenharia, Prompt
+
