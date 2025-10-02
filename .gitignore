@@ -1,0 +1,46 @@
+# Dependências do Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build e cache
+dist/
+build/
+.cache/
+.next/
+out/
+tmp/
+temp/
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Arquivos de ambiente / chaves
+.env
+.env.local
+.env.*.local
+
+# Diretórios de cobertura de testes
+coverage/
+.nyc_output/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# IDEs / editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos do Windows
+desktop.ini
+
+# Outros
+*.bak
+*.tmp
